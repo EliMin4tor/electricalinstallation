@@ -1,0 +1,2 @@
+
+SELECT label, designation, manufacturer_reference, quantity, unity, description FROM element_nomenclature_view WHERE label like '-W%' and ( element_type = 'terminal' OR element_type = 'thumbnail' OR element_type = 'simple' OR element_sub_type = 'commutator' OR element_sub_type = 'coil' OR element_sub_type = 'protection') ORDER BY label, designation, manufacturer_reference, quantity, unity, description

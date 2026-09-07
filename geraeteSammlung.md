@@ -9,6 +9,10 @@
 [RIF-0-RPT-24DC/ 1](https://www.phoenixcontact.com/de-de/produkte/relaismodul-rif-0-rpt-24dc-1-2903361)
 Grenzdauerstrom 	6 A
 Einschaltstrom maximal 	10 A (4 s)
+### Kabel
+[2x0,5](https://www.conrad.de/de/p/lapp-oelflex-150-steuerleitung-2-x-0-50-mm-grau-15002-75-75-m-1026833.html)
+[2x1,5](https://www.conrad.de/de/p/lapp-oelflex-150-steuerleitung-2-x-1-5-mm-grau-15302-300-300-m-1026843.html)
+[NYM-J 3x1,5](https://www.conrad.de/de/p/nym-j-3x1-5-rg50-mantelleitung-nym-j-3-g-1-5-mm-grau-50-m-2984949.html)
 #### Beleuchtung
 - [ISOLED LED Einbauleuchte Slim68 MiniAMP](https://www.ebay.de/itm/267375610933?var=0&toolid=20006&customid=hzOpZ_Qt0Fhbs2s9nhIwSw)
 - [LED Einbauleuchte Slim68 MiniAMP schwarz, rund, 8W, 24V DC, neutralweiß, dimmbar](https://www.isoled.shop/de/led-einbauleuchte-slim68-miniamp-schwarz-rund-8w-24v-dc-neutralweiss-dimmbar-114890.html)
