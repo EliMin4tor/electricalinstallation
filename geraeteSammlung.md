@@ -1,3 +1,8 @@
+#### Leitungsschutzschalter
+[B16A 1Pol](https://www.conrad.de/de/p/abb-2cds251001r1165-s201-b16-2cds251001r1165-leitungsschutzschalter-1polig-16-a-610940.html#productTechData)
+[B16A 3Pol](https://www.conrad.de/de/p/abb-2cds273001r0165-s203m-b16-leitungsschutzschalter-16-a-400-v-3114500.html)
+[B20A 1Pol](https://www.conrad.de/de/p/abb-2cds381001r0205-s301p-b20-leitungsschutzschalter-20-a-240-v-3115140.html)
+[C20A](https://www.conrad.de/de/p/abb-2cds383001r0204-s303p-c20-leitungsschutzschalter-20-a-415-v-3115363.html)
 #### Trafo
 - [Phoenix QUINT4-PS/1AC/24DC/20](https://www.phoenixcontact.com/de-de/produkte/stromversorgung-quint4-ps1ac24dc20-2904602)
 - [Phoenix QUINT4-PS/3AC/24DC/20](https://www.phoenixcontact.com/de-de/produkte/stromversorgung-quint4-ps3ac24dc20-2904622)
@@ -25,3 +30,8 @@ Farbtemperatur 	4000K
 
 8 stk = 2.664 A
 50 stk = 16.5 A
+#### Heizung
+##### Wärmepumpe
+[Stiebel WPL-A 10.2 Plus HK 400](https://www.stiebel-eltron.de/de/produkte/heizen-und-kuehlen/waermepumpe/luftwaermepumpen/p/206125.html)
+#### Integralspeicher
+[Stiebel HSBC 300 L cool](https://www.stiebel-eltron.de/de/produkte/heizen-und-kuehlen/puffer-und-trinkwarmwasserspeicher/integralspeicher/p/238826.html)
