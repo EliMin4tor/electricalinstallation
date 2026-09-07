@@ -139,8 +139,8 @@
         <property name="saveddate-eu" show="1">07-09-2026</property>
         <property name="saveddate-us" show="1">2026-09-07</property>
         <property name="savedfilename" show="1">schaltplanNagelshub15</property>
-        <property name="savedfilepath" show="1">/home/eli/Documents/nagelshub/elektrik/schaltplan/schaltplanNagelshub15.qet</property>
-        <property name="savedtime" show="1">13:21</property>
+        <property name="savedfilepath" show="1">/home/eli/Documents/nagelshub/elektrik/installationsschaltplan/electricalinstallation/schaltplanNagelshub15.qet</property>
+        <property name="savedtime" show="1">14:20</property>
     </properties>
     <newdiagrams>
         <border cols="17" colsize="60" rows="8" displaycols="true" displayrows="true" rowsize="80"/>
@@ -6279,9 +6279,14 @@
                 <terminals/>
                 <inputs/>
                 <elementInformations>
-                    <elementInformation name="designation" show="1">1234</elementInformation>
                     <elementInformation name="formula" show="1">-W%id.%sequ_1</elementInformation>
                     <elementInformation name="label" show="1">-W8.6</elementInformation>
+                    <elementInformation name="description" show="1">NYM-J 3x1,5</elementInformation>
+                    <elementInformation name="function" show="1">Verbindung</elementInformation>
+                    <elementInformation name="designation" show="1">2050009581718</elementInformation>
+                    <elementInformation name="manufacturer_reference" show="1">2984949 - 62</elementInformation>
+                    <elementInformation name="quantity" show="1">10</elementInformation>
+                    <elementInformation name="unity" show="1">m</elementInformation>
                 </elementInformations>
                 <dynamic_texts>
                     <dynamic_elmt_text frame="false" Halignment="AlignLeft" x="-50" y="0.5" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{b0928549-3d44-4f18-b2a8-0568dd344c61}" keep_visual_rotation="true" text_from="UserText" Valignment="AlignTop">
@@ -6424,6 +6429,12 @@
                 <elementInformations>
                     <elementInformation name="formula" show="1">-W%id.%sequ_1</elementInformation>
                     <elementInformation name="label" show="1">-W8.7</elementInformation>
+                    <elementInformation name="description" show="1">NYM-J 3x1,5</elementInformation>
+                    <elementInformation name="function" show="1">Verbindung</elementInformation>
+                    <elementInformation name="designation" show="1">2050009581718</elementInformation>
+                    <elementInformation name="manufacturer_reference" show="1">2984949 - 62</elementInformation>
+                    <elementInformation name="quantity" show="1">10</elementInformation>
+                    <elementInformation name="unity" show="1">m</elementInformation>
                 </elementInformations>
                 <dynamic_texts>
                     <dynamic_elmt_text frame="false" Halignment="AlignLeft" x="-50" y="0.5" rotation="0" font="Liberation Sans,7,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{9e3d5f06-97ac-48c3-a5c7-362b25141d73}" keep_visual_rotation="true" text_from="UserText" Valignment="AlignTop">
