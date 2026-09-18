@@ -1,0 +1,164 @@
+Betriebsmittelkennzeichen (BMK);Funktion;Artikelbeschreibung;Hersteller;Artikelnummer;Bestellnummer;Lieferant;Menge;Einheit
+-E10.1;;;;;;;;
+-E10.2;;;;;;;;
+-E10.3;;;;;;;;
+-E10.4;;;;;;;;
+-E11.1;;;;;;;;
+-E11.2;;;;;;;;
+-E23.1;;;;;;;;
+-E23.1;;;;;;;;
+-E23.1;;;;;;;;
+-E23.1;;;;;;;;
+-E37.1;;;;;;;;
+-E37.2;;;;;;;;
+-E37.3;;;;;;;;
+-E37.4;;;;;;;;
+-E37.5;;;;;;;;
+-E37.6;;;;;;;;
+-E6.1;Wärmepumpe;WPL-A 10.2 Plus HK 400;Stiebel Eltron;;;Stiefenhofer;;
+-E6.2;Integralspeicher;HSBC 300 L cool;Stiebel Eltron;;;Stiefenhofer;;
+-F22.2;Sicherung 24V;CBM E8 24DC/0.5-10A NO-R - Elektronischer Geräteschutzschalter;Phoenix Contact;2905744;;;;
+-F33.2;Sicherung 24V;CBM E8 24DC/0.5-10A NO-R - Elektronischer Geräteschutzschalter;phoenixcontact;2905744;;;;
+-F9.2;Sicherung 24V;CBM E8 24DC/0.5-10A NO-R - Elektronischer Geräteschutzschalter;Phoenix Contact;2905744;;;;
+
+-Q14.1;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q14.2;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q14.3;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q14.4;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q14.5;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q15.1;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q15.2;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q15.3;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q27.1;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q27.2;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q27.3;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q27.4;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q28.1;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q28.2;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q28.3;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q28.4;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q36.1;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q36.2;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+-Q36.3;;RIF-0-RPT-24DC/ 1 - Relaismodul;phoenixcontact;2903361;;;;
+
+-S12.2;;;;;;;;
+-S13.1;Bewegungsmelder;;;;;;;
+-S14.1;;;;;;;;
+-S14.2;;;;;;;;
+-S14.3;;;;;;;;
+-S14.4;;;;;;;;
+-S14.5;;;;;;;;
+-S14.6;;;;;;;;
+-S14.6;;;;;;;;
+-S15.1;;;;;;;;
+-S15.2;;;;;;;;
+-S15.3;;;;;;;;
+-S16.1;;;;;;;;
+-S16.2;;;;;;;;
+-S16.3;;;;;;;;
+-S16.4;;;;;;;;
+-S16.5;;;;;;;;
+-S24.1;;;;;;;;
+-S27.1;;;;;;;;
+-S27.2;;;;;;;;
+-S27.3;;;;;;;;
+-S27.4;;;;;;;;
+-S27.5;;;;;;;;
+-S27.6;;;;;;;;
+-S28.1;;;;;;;;
+-S28.2;;;;;;;;
+-S28.3;;;;;;;;
+-S28.4;;;;;;;;
+-S29.1;;;;;;;;
+-S29.2;;;;;;;;
+-S29.3;;;;;;;;
+-S29.4;;;;;;;;
+-S29.5;;;;;;;;
+-S34.1;;;;;;;;
+-S35.1;;;;;;;;
+-S35.2;;;;;;;;
+-S35.3;;;;;;;;
+-S36.1;;;;;;;;
+-S36.2;;;;;;;;
+-S36.3;;;;;;;;
+-S36.4;;;;;;;;
+-S36.5;;;;;;;;
+-S37.1;;;;;;;;
+-S37.2;;;;;;;;
+-S37.3;;;;;;;;
+-S37.4;;;;;;;;
+-S37.5;;;;;;;;
+-S37.6;;;;;;;;
+-T33.1;Netzteil 1-Pol;QUINT4-PS/1AC/24DC/10 - Stromversorgung;Phoenix Contact;2904601;1438975 - 62;Conrad;;
+-T22.1;Netzteil 1-Pol;QUINT4-PS/1AC/24DC/20 - Stromversorgung;Phoenix Contact;2904602;1438976 - 62;Conrad;;
+-T9.1;Netzteil 1-Pol;QUINT4-PS/1AC/24DC/20 - Stromversorgung;Phoenix Contact;2904602;1438976 - 62;Conrad;;
+-Q4.1;Lasttrennschalter 3polig 40 A;Lasttrennschalter Grau 3polig 40 A 3 Schließer ABB 2CDD283101R0040;ABB;4016779904216;2323773 - 62;Conrad;1;Stk
+
+-F4.1;Leitungsschutzschalter 3polig 40 A 380 V;ABB 2CDS253001R0404 S203-C40 Leitungsschutzschalter 3polig 40 A 380 V Schaltleistung 20000 A;ABB;4016779468404;2326863 - 62;;;
+
+-F22.1;Leitungsschutzschalter;Leitungsschutzschalter AC B 20A 1p 230V 1TE 50Hz S201-B16;ABB;4016779549462;3113919 - 62;Conrad;1;Stk
+-F32.2;Leitungsschutzschalter;Leitungsschutzschalter AC B 20A 1p 230V 1TE 50Hz S201-B16;ABB;4016779549462;3113919 - 62;Conrad;1;Stk
+-F7.6;Leitungsschutzschalter;Leitungsschutzschalter AC B 20A 1p 230V 1TE 50Hz S201-B16;ABB;4016779549462;3113919 - 62;Conrad;1;Stk
+-F7.7;Leitungsschutzschalter;Leitungsschutzschalter AC B 20A 1p 230V 1TE 50Hz S201-B16;ABB;4016779549462;3113919 - 62;Conrad;1;Stk
+-F9.1;Leitungsschutzschalter;Leitungsschutzschalter AC B 20A 1p 230V 1TE 50Hz S201-B16;ABB;4016779549462;3113919 - 62;Conrad;1;Stk
+
+-F4.2;Leitungsschutzschalter;ABB 2CDS273001R0165 S203M-B16 Leitungsschutzschalter 16 A 400 V;ABB;4016779549691;3114500 - 62;Conrad;1;Stk
+
+-F20.1;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F20.2;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F20.3;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F20.4;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F20.5;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F21.1;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F21.2;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F32.3;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F32.4;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F32.5;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F32.6;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F32.7;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F33.1;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F4.3;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F4.3;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F8.1;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F8.2;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F8.3;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F8.4;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F8.5;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F8.7;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+-F8.8;Leitungsschutzschalter;Leitungsschutzschalter AC B 16A 1p 230V 1TE 50Hz S201-B16 Schaltleistung 6000 A;ABB;4016779578639;610940 - 62;Conrad;1;Stk
+
+-F20.11;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F20.12;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F20.13;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F20.14;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F20.15;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F21.5;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F21.6;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F32.10;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F32.11;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F32.12;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F32.13;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F32.14;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F32.15;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F4.11;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F4.12;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F7.12;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F7.13;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F8.10;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F8.11;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F8.12;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F8.13;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F8.14;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F8.16;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F8.17;(A) 25 A 30 mA;ABB 2CSF202101R1250 2csf202101r1250 FI-Schutzschalter A 2polig 25 A 0.03 A 230 V;ABB;4012233026906;621747 - 62;Conrad;1;Stk
+-F4.10;(A) 25 A 30 mA;FI-Schutzschalter A 4polig 25 A 0.03 A 230 V/AC, 400 V/AC;ABB;8012542783404;621748 - 62;Conrad;1;Stk
+-F7.10;(A) 25 A 30 mA;FI-Schutzschalter A 4polig 25 A 0.03 A 230 V/AC, 400 V/AC;ABB;8012542783404;621748 - 62;Conrad;1;Stk
+-F7.11;(A) 25 A 30 mA;FI-Schutzschalter A 4polig 25 A 0.03 A 230 V/AC, 400 V/AC;ABB;8012542783404;621748 - 62;Conrad;1;Stk
+-F19.11;(A) 25 A 30 mA;FI-Schutzschalter A 4polig 25 A 0.03 A 230 V/AC, 400 V/AC;ABB;8012542783404;621748 - 62;Conrad;1;Stk
+-F19.10;(A) 25 A 30 mA;FI-Schutzschalter A 4polig 25 A 0.03 A 230 V/AC, 400 V/AC;ABB;8012542783404;621748 - 62;Conrad;1;Stk
+-F7.2;Leitungsschutzschalter;ABB 2CDS253001R0205 S203-B20 Leitungsschutzschalter 3polig 20 A Schaltleistung 6000 A;ABB;4016779609234;621930 - 62;Conrad;1;Stk
+-F7.3;Leitungsschutzschalter;ABB 2CDS253001R0205 S203-B20 Leitungsschutzschalter 3polig 20 A Schaltleistung 6000 A;ABB;4016779609234;621930 - 62;Conrad;1;Stk
+-F19.2;Leitungsschutzschalter;ABB 2CDS253001R0205 S203-B20 Leitungsschutzschalter 3polig 20 A Schaltleistung 6000 A;ABB;4016779609234;621930 - 62;Conrad;1;Stk
+-F19.3;Leitungsschutzschalter;ABB 2CDS253001R0205 S203-B20 Leitungsschutzschalter 3polig 20 A Schaltleistung 6000 A;ABB;4016779609234;621930 - 62;Conrad;1;Stk
+
+0x7fffc7399800

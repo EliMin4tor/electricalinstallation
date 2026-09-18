@@ -1,0 +1,5 @@
+SELECT plant FROM project_summary_view ORDER BY plant
+
+SELECT pos, title, plant, locmach, folio, indexrev FROM project_summary_view  where plant = 'EG' ORDER BY pos, title, plant, locmach, folio, indexrev
+SELECT pos, title, plant, locmach, folio, indexrev FROM project_summary_view  where plant = 'OG' ORDER BY pos, title, plant, locmach, folio, indexrev
+SELECT pos, title, plant, locmach, folio, indexrev FROM project_summary_view  where plant = 'DG' ORDER BY pos, title, plant, locmach, folio, indexrev
