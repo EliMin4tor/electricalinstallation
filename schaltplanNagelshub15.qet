@@ -5,7 +5,7 @@
         <property name="saveddate-us" show="1">2026-09-21</property>
         <property name="savedfilename" show="1">schaltplanNagelshub15</property>
         <property name="savedfilepath" show="1">/home/eli/Documents/nagelshub/elektrik/installationsschaltplan/electricalinstallation/schaltplanNagelshub15.qet</property>
-        <property name="savedtime" show="1">18:30</property>
+        <property name="savedtime" show="1">18:40</property>
     </properties>
     <newdiagrams>
         <border cols="17" colsize="60" rows="8" displaycols="true" displayrows="true" rowsize="80"/>
@@ -3312,7 +3312,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="980" y="390" z="10" freezeLabel="false" prefix="" uuid="{cdb8e615-0d7b-472f-9ce8-db620fa41212}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="960" y="390" z="10" freezeLabel="false" prefix="" uuid="{cdb8e615-0d7b-472f-9ce8-db620fa41212}" orientation="0">
                 <sequentialNumbers>
                     <unit>19</unit>
                     <unitFolio></unitFolio>
@@ -3399,7 +3399,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="960" y="390" z="10" freezeLabel="false" prefix="" uuid="{231a0dc5-2273-41a6-9d8b-9d70c4b32bf5}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="940" y="390" z="10" freezeLabel="false" prefix="" uuid="{231a0dc5-2273-41a6-9d8b-9d70c4b32bf5}" orientation="0">
                 <sequentialNumbers>
                     <unit>18</unit>
                     <unitFolio></unitFolio>
@@ -3428,7 +3428,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="860" y="390" z="10" freezeLabel="false" prefix="" uuid="{16a9724e-9bc1-4be0-9236-7d36896ba37f}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="840" y="390" z="10" freezeLabel="false" prefix="" uuid="{16a9724e-9bc1-4be0-9236-7d36896ba37f}" orientation="0">
                 <sequentialNumbers>
                     <unit>15</unit>
                     <unitFolio></unitFolio>
@@ -3569,7 +3569,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/bauteile/leistungschutzschalter-1pol-b20a.elmt" x="680" y="220" z="10" freezeLabel="false" prefix="" uuid="{a6a47e70-ba14-4fbe-96d5-7af7af701419}" orientation="0">
+            <element type="embed://import/bauteile/leistungschutzschalter-1pol-b20a.elmt" x="630" y="230" z="10" freezeLabel="false" prefix="" uuid="{a6a47e70-ba14-4fbe-96d5-7af7af701419}" orientation="0">
                 <sequentialNumbers>
                     <unit>7</unit>
                     <unitFolio></unitFolio>
@@ -3606,7 +3606,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="880" y="390" z="10" freezeLabel="false" prefix="" uuid="{bb3ab194-51eb-4ddd-bdfe-b25850a56f5f}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="860" y="390" z="10" freezeLabel="false" prefix="" uuid="{bb3ab194-51eb-4ddd-bdfe-b25850a56f5f}" orientation="0">
                 <sequentialNumbers>
                     <unit>16</unit>
                     <unitFolio></unitFolio>
@@ -3675,7 +3675,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_continuite2.elmt" x="840" y="390" z="10" freezeLabel="false" prefix="X" uuid="{fbca7486-1e6a-4757-8807-cc7e3cfd1c98}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_continuite2.elmt" x="820" y="390" z="10" freezeLabel="false" prefix="X" uuid="{fbca7486-1e6a-4757-8807-cc7e3cfd1c98}" orientation="0">
                 <sequentialNumbers>
                     <unit>58</unit>
                     <unitFolio></unitFolio>
@@ -3704,7 +3704,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="780" y="390" z="10" freezeLabel="false" prefix="" uuid="{da6e3a42-09e6-4225-820f-d99c7ff2b8a6}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="740" y="390" z="10" freezeLabel="false" prefix="" uuid="{da6e3a42-09e6-4225-820f-d99c7ff2b8a6}" orientation="0">
                 <sequentialNumbers>
                     <unit>13</unit>
                     <unitFolio></unitFolio>
@@ -3809,7 +3809,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/bauteile/fi_2polig.elmt" x="690" y="310" z="10" freezeLabel="false" prefix="" uuid="{e1992b23-3716-4477-a260-fa4d1bcd4796}" orientation="0">
+            <element type="embed://import/bauteile/fi_2polig.elmt" x="640" y="310" z="10" freezeLabel="false" prefix="" uuid="{e1992b23-3716-4477-a260-fa4d1bcd4796}" orientation="0">
                 <sequentialNumbers>
                     <unit>13</unit>
                     <unitFolio></unitFolio>
@@ -3894,7 +3894,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="760" y="390" z="10" freezeLabel="false" prefix="" uuid="{ad6ced91-76f1-47a3-bd2a-794d25d29f74}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="720" y="390" z="10" freezeLabel="false" prefix="" uuid="{ad6ced91-76f1-47a3-bd2a-794d25d29f74}" orientation="0">
                 <sequentialNumbers>
                     <unit>12</unit>
                     <unitFolio></unitFolio>
@@ -4038,7 +4038,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_continuite2.elmt" x="940" y="390" z="10" freezeLabel="false" prefix="X" uuid="{54c5efdf-10ab-4b81-b58a-2cdac2dccb1b}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_continuite2.elmt" x="920" y="390" z="10" freezeLabel="false" prefix="X" uuid="{54c5efdf-10ab-4b81-b58a-2cdac2dccb1b}" orientation="0">
                 <sequentialNumbers>
                     <unit>59</unit>
                     <unitFolio></unitFolio>
@@ -4131,7 +4131,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="820" y="390" z="10" freezeLabel="false" prefix="" uuid="{a081c8ab-3472-465d-8fda-0c08549dff67}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="780" y="390" z="10" freezeLabel="false" prefix="" uuid="{a081c8ab-3472-465d-8fda-0c08549dff67}" orientation="0">
                 <sequentialNumbers>
                     <unit>38</unit>
                     <unitFolio></unitFolio>
@@ -4323,7 +4323,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_continuite2.elmt" x="700" y="390" z="10" freezeLabel="false" prefix="X" uuid="{0ee54d0f-5e18-48c1-9754-6487c0319516}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_continuite2.elmt" x="800" y="390" z="10" freezeLabel="false" prefix="X" uuid="{0ee54d0f-5e18-48c1-9754-6487c0319516}" orientation="0">
                 <sequentialNumbers>
                     <unit>57</unit>
                     <unitFolio></unitFolio>
@@ -4724,7 +4724,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_continuite2.elmt" x="1040" y="390" z="10" freezeLabel="false" prefix="X" uuid="{1cf5b214-725b-4565-be0b-8b2f06a7c8bb}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/130_terminals_terminal_strips/borne_continuite2.elmt" x="1020" y="390" z="10" freezeLabel="false" prefix="X" uuid="{1cf5b214-725b-4565-be0b-8b2f06a7c8bb}" orientation="0">
                 <sequentialNumbers>
                     <unit>60</unit>
                     <unitFolio></unitFolio>
@@ -4753,7 +4753,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="800" y="390" z="10" freezeLabel="false" prefix="" uuid="{4eb658d4-aa69-4571-9ad7-8542aa2665e8}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="760" y="390" z="10" freezeLabel="false" prefix="" uuid="{4eb658d4-aa69-4571-9ad7-8542aa2665e8}" orientation="0">
                 <sequentialNumbers>
                     <unit>14</unit>
                     <unitFolio></unitFolio>
@@ -4782,7 +4782,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="1000" y="390" z="10" freezeLabel="false" prefix="" uuid="{97586224-8ff9-4c31-9e3b-ea7c85b39374}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="980" y="390" z="10" freezeLabel="false" prefix="" uuid="{97586224-8ff9-4c31-9e3b-ea7c85b39374}" orientation="0">
                 <sequentialNumbers>
                     <unit>20</unit>
                     <unitFolio></unitFolio>
@@ -4811,7 +4811,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="920" y="390" z="10" freezeLabel="false" prefix="" uuid="{cbef7ba4-bd72-40ed-9df6-9114167f739e}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="900" y="390" z="10" freezeLabel="false" prefix="" uuid="{cbef7ba4-bd72-40ed-9df6-9114167f739e}" orientation="0">
                 <sequentialNumbers>
                     <unit>39</unit>
                     <unitFolio></unitFolio>
@@ -4962,7 +4962,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="900" y="390" z="10" freezeLabel="false" prefix="" uuid="{cc6b948c-6919-418a-9122-3159d3d34116}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="880" y="390" z="10" freezeLabel="false" prefix="" uuid="{cc6b948c-6919-418a-9122-3159d3d34116}" orientation="0">
                 <sequentialNumbers>
                     <unit>17</unit>
                     <unitFolio></unitFolio>
@@ -5078,7 +5078,7 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="1020" y="390" z="10" freezeLabel="false" prefix="" uuid="{a9c76209-4ac7-4703-a6c7-4505064c3183}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="1000" y="390" z="10" freezeLabel="false" prefix="" uuid="{a9c76209-4ac7-4703-a6c7-4505064c3183}" orientation="0">
                 <sequentialNumbers>
                     <unit>40</unit>
                     <unitFolio></unitFolio>
@@ -5198,6 +5198,11 @@ Heizung</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" element2_linked="" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{e6768545-66a4-480f-87ad-568b060e3147}" condsize="1" element2="{34c59b75-11c1-40b1-94e2-8f13088b9c44}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{3927e802-9996-40cd-ae26-f054f368d2fe}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="7.56" color="#087c00" style="line-style: dashdotted" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <segment orientation="vertical" length="-10"/>
+                <segment orientation="horizontal" length="50"/>
+                <segment orientation="vertical" length="-240"/>
+                <segment orientation="horizontal" length="290"/>
+                <segment orientation="horizontal" length="7"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" element2_linked="" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{c9b8a865-a0ad-4c6e-b5cf-e1b78655c0d0}" condsize="1" element2="{b45b5119-3089-4cfd-9d86-c78acef187df}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="7.35" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -5269,7 +5274,7 @@ Heizung</text>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Fehlerstromschutzschalter 2-polig Typ A" bicolor="false" element1="{e1992b23-3716-4477-a260-fa4d1bcd4796}" condsize="1" numsize="7" element2="{90e1e810-9bc6-4bda-9ff5-5a5c4df9fdee}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{a5927b36-e265-4fa7-b306-55b9c0fa0d09}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="7.37" element1_label="-F7.13" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <segment orientation="vertical" length="10"/>
                 <segment orientation="vertical" length="20"/>
-                <segment orientation="horizontal" length="-100"/>
+                <segment orientation="horizontal" length="-50"/>
                 <segment orientation="vertical" length="10"/>
                 <segment orientation="vertical" length="10"/>
                 <sequentialNumbers/>
@@ -5347,9 +5352,9 @@ Heizung</text>
             </conductor>
         </conductors>
         <inputs>
-            <input x="540" y="640" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Liberation Sans'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Waschmaschine&lt;/p>&lt;/body>&lt;/html>"/>
-            <input x="760" y="640" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Liberation Sans'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Reserve&lt;/p>&lt;/body>&lt;/html>"/>
-            <input x="640" y="640" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Liberation Sans'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Trockner&lt;/p>&lt;/body>&lt;/html>"/>
+            <input x="480" y="640" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Liberation Sans'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Waschmaschine&lt;/p>&lt;/body>&lt;/html>"/>
+            <input x="720" y="640" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Liberation Sans'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Reserve&lt;/p>&lt;/body>&lt;/html>"/>
+            <input x="590" y="640" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Liberation Sans'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Trockner&lt;/p>&lt;/body>&lt;/html>"/>
             <input x="390" y="640" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Liberation Sans'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Kochfeld&lt;/p>&lt;/body>&lt;/html>"/>
             <input x="220" y="640" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Liberation Sans'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Backofen&lt;/p>&lt;/body>&lt;/html>"/>
         </inputs>
