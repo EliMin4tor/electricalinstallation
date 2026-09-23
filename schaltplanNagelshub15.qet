@@ -5,7 +5,7 @@
         <property name="saveddate-us" show="1">2026-09-23</property>
         <property name="savedfilename" show="1">schaltplanNagelshub15</property>
         <property name="savedfilepath" show="1">/home/eli/Documents/nagelshub/elektrik/installationsschaltplan/electricalinstallation/schaltplanNagelshub15.qet</property>
-        <property name="savedtime" show="1">18:38</property>
+        <property name="savedtime" show="1">18:49</property>
     </properties>
     <newdiagrams>
         <border cols="17" colsize="60" rows="8" displaycols="true" displayrows="true" rowsize="80"/>
@@ -163,7 +163,7 @@
             </elementunitfolioseq>
         </elementautonumfoliosequentials>
         <elements>
-            <element type="embed://import/startklemme.elmt" x="990" y="370" z="10" freezeLabel="false" prefix="" uuid="{5cf6fc7a-0cdb-40e7-8647-8fc65b84e9a4}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="990" y="390" z="10" freezeLabel="false" prefix="" uuid="{5cf6fc7a-0cdb-40e7-8647-8fc65b84e9a4}" orientation="0">
                 <sequentialNumbers>
                     <unit>32</unit>
                     <unitFolio></unitFolio>
@@ -192,7 +192,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="400" y="370" z="10" freezeLabel="false" prefix="" uuid="{c989f81e-e247-46cd-89a4-3fe0e20c03d8}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="400" y="390" z="10" freezeLabel="false" prefix="" uuid="{c989f81e-e247-46cd-89a4-3fe0e20c03d8}" orientation="0">
                 <sequentialNumbers>
                     <unit>12</unit>
                     <unitFolio></unitFolio>
@@ -221,7 +221,31 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="730" y="370" z="10" freezeLabel="false" prefix="" uuid="{60ec3aa7-24da-49de-bb0b-2a5d3d8829a7}" orientation="0">
+            <element type="embed://import/verbraucherzaehler.elmt" x="790" y="300" z="10" freezeLabel="false" prefix="" uuid="{3985d122-3f08-4e29-b90c-083c902a08c6}" orientation="0">
+                <sequentialNumbers>
+                    <unit>2</unit>
+                    <unitFolio></unitFolio>
+                    <ten></ten>
+                    <tenFolio></tenFolio>
+                    <hundred></hundred>
+                    <hundredFolio></hundredFolio>
+                </sequentialNumbers>
+                <terminals>
+                    <terminal x="-10" y="-16" id="4" orientation="0"/>
+                    <terminal x="10" y="-16" id="5" orientation="0"/>
+                    <terminal x="30" y="-16" id="6" orientation="0"/>
+                    <terminal x="50" y="-16" id="7" orientation="0"/>
+                    <terminal x="-10" y="16" id="8" orientation="2"/>
+                    <terminal x="10" y="16" id="9" orientation="2"/>
+                    <terminal x="30" y="16" id="10" orientation="2"/>
+                    <terminal x="50" y="16" id="11" orientation="2"/>
+                </terminals>
+                <inputs/>
+                <elementInformations/>
+                <dynamic_texts/>
+                <texts_groups/>
+            </element>
+            <element type="embed://import/startklemme.elmt" x="730" y="390" z="10" freezeLabel="false" prefix="" uuid="{60ec3aa7-24da-49de-bb0b-2a5d3d8829a7}" orientation="0">
                 <sequentialNumbers>
                     <unit>24</unit>
                     <unitFolio></unitFolio>
@@ -231,8 +255,8 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="4" orientation="0"/>
-                    <terminal x="0" y="6" id="5" orientation="2"/>
+                    <terminal x="0" y="-6" id="12" orientation="0"/>
+                    <terminal x="0" y="6" id="13" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -250,7 +274,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/bauteile/fi_2polig.elmt" x="390" y="270" z="10" freezeLabel="false" prefix="" uuid="{443e3ac5-f93d-4c8d-b292-a21182e88317}" orientation="0">
+            <element type="embed://import/bauteile/fi_2polig.elmt" x="390" y="230" z="10" freezeLabel="false" prefix="" uuid="{443e3ac5-f93d-4c8d-b292-a21182e88317}" orientation="0">
                 <sequentialNumbers>
                     <unit>11</unit>
                     <unitFolio></unitFolio>
@@ -260,10 +284,10 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="-10" y="-16" id="6" orientation="0"/>
-                    <terminal x="10" y="-16" id="7" orientation="0"/>
-                    <terminal x="-10" y="16" id="8" orientation="2"/>
-                    <terminal x="10" y="16" id="9" orientation="2"/>
+                    <terminal x="-10" y="-16" id="14" orientation="0"/>
+                    <terminal x="10" y="-16" id="15" orientation="0"/>
+                    <terminal x="-10" y="16" id="16" orientation="2"/>
+                    <terminal x="10" y="16" id="17" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -290,7 +314,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/klemme4.elmt" x="200" y="370" z="10" freezeLabel="false" prefix="" uuid="{910d0353-b844-470f-8dcb-a27b78e0fe16}" orientation="0">
+            <element type="embed://import/klemme4.elmt" x="200" y="390" z="10" freezeLabel="false" prefix="" uuid="{910d0353-b844-470f-8dcb-a27b78e0fe16}" orientation="0">
                 <sequentialNumbers>
                     <unit>5</unit>
                     <unitFolio></unitFolio>
@@ -300,8 +324,8 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="10" orientation="0"/>
-                    <terminal x="0" y="6" id="11" orientation="2"/>
+                    <terminal x="0" y="-6" id="18" orientation="0"/>
+                    <terminal x="0" y="6" id="19" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -324,7 +348,7 @@
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="420" y="550" z="10" freezeLabel="false" prefix="" uuid="{a8c3e302-43af-44a5-8708-3ab6ccfd0fd0}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="12" orientation="3"/>
+                    <terminal x="-9" y="0" id="20" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -340,7 +364,7 @@
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="990" y="550" z="10" freezeLabel="false" prefix="" uuid="{7b1d2949-b3ad-4fd3-8837-bf3b5cc7501f}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="13" orientation="3"/>
+                    <terminal x="-9" y="0" id="21" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -354,7 +378,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/bauteile/fi_dreipolig_n.elmt" x="280" y="270" z="10" freezeLabel="false" prefix="" uuid="{56f7a090-e163-4bda-a1f4-b94be0887299}" orientation="0">
+            <element type="embed://import/bauteile/fi_dreipolig_n.elmt" x="280" y="230" z="10" freezeLabel="false" prefix="" uuid="{56f7a090-e163-4bda-a1f4-b94be0887299}" orientation="0">
                 <sequentialNumbers>
                     <unit>10</unit>
                     <unitFolio></unitFolio>
@@ -364,14 +388,14 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="-30" y="-16" id="14" orientation="0"/>
-                    <terminal x="-10" y="-16" id="15" orientation="0"/>
-                    <terminal x="10" y="-16" id="16" orientation="0"/>
-                    <terminal x="30" y="-16" id="17" orientation="0"/>
-                    <terminal x="-30" y="16" id="18" orientation="2"/>
-                    <terminal x="-10" y="16" id="19" orientation="2"/>
-                    <terminal x="10" y="16" id="20" orientation="2"/>
-                    <terminal x="30" y="16" id="21" orientation="2"/>
+                    <terminal x="-30" y="-16" id="22" orientation="0"/>
+                    <terminal x="-10" y="-16" id="23" orientation="0"/>
+                    <terminal x="10" y="-16" id="24" orientation="0"/>
+                    <terminal x="30" y="-16" id="25" orientation="0"/>
+                    <terminal x="-30" y="16" id="26" orientation="2"/>
+                    <terminal x="-10" y="16" id="27" orientation="2"/>
+                    <terminal x="10" y="16" id="28" orientation="2"/>
+                    <terminal x="30" y="16" id="29" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -398,7 +422,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/bauteile/fi_2polig.elmt" x="480" y="270" z="10" freezeLabel="false" prefix="" uuid="{ac53cd55-3ccd-4f06-9eca-e0b7ea22d71f}" orientation="0">
+            <element type="embed://import/bauteile/fi_2polig.elmt" x="480" y="230" z="10" freezeLabel="false" prefix="" uuid="{ac53cd55-3ccd-4f06-9eca-e0b7ea22d71f}" orientation="0">
                 <sequentialNumbers>
                     <unit>12</unit>
                     <unitFolio></unitFolio>
@@ -408,10 +432,10 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="-10" y="-16" id="22" orientation="0"/>
-                    <terminal x="10" y="-16" id="23" orientation="0"/>
-                    <terminal x="-10" y="16" id="24" orientation="2"/>
-                    <terminal x="10" y="16" id="25" orientation="2"/>
+                    <terminal x="-10" y="-16" id="30" orientation="0"/>
+                    <terminal x="10" y="-16" id="31" orientation="0"/>
+                    <terminal x="-10" y="16" id="32" orientation="2"/>
+                    <terminal x="10" y="16" id="33" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -437,7 +461,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="710" y="370" z="10" freezeLabel="false" prefix="" uuid="{6e48d247-574b-45ee-8a98-6cf88859d2ac}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="710" y="390" z="10" freezeLabel="false" prefix="" uuid="{6e48d247-574b-45ee-8a98-6cf88859d2ac}" orientation="0">
                 <sequentialNumbers>
                     <unit>23</unit>
                     <unitFolio></unitFolio>
@@ -447,8 +471,8 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="26" orientation="0"/>
-                    <terminal x="0" y="6" id="27" orientation="2"/>
+                    <terminal x="0" y="-6" id="34" orientation="0"/>
+                    <terminal x="0" y="6" id="35" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -466,7 +490,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="840" y="370" z="10" freezeLabel="false" prefix="" uuid="{b302a43c-4301-4a71-9040-9c98d487ad4e}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="840" y="390" z="10" freezeLabel="false" prefix="" uuid="{b302a43c-4301-4a71-9040-9c98d487ad4e}" orientation="0">
                 <sequentialNumbers>
                     <unit>28</unit>
                     <unitFolio></unitFolio>
@@ -476,8 +500,8 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="28" orientation="0"/>
-                    <terminal x="0" y="6" id="29" orientation="2"/>
+                    <terminal x="0" y="-6" id="36" orientation="0"/>
+                    <terminal x="0" y="6" id="37" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -495,7 +519,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="600" y="370" z="10" freezeLabel="false" prefix="" uuid="{baea981f-af57-4504-a968-4af6bd84311c}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="600" y="390" z="10" freezeLabel="false" prefix="" uuid="{baea981f-af57-4504-a968-4af6bd84311c}" orientation="0">
                 <sequentialNumbers>
                     <unit>19</unit>
                     <unitFolio></unitFolio>
@@ -505,8 +529,8 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="30" orientation="0"/>
-                    <terminal x="0" y="6" id="31" orientation="2"/>
+                    <terminal x="0" y="-6" id="38" orientation="0"/>
+                    <terminal x="0" y="6" id="39" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -524,7 +548,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="270" y="370" z="10" freezeLabel="false" prefix="" uuid="{679c4d08-86db-41d0-8d15-840e6fb8d4c4}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="270" y="390" z="10" freezeLabel="false" prefix="" uuid="{679c4d08-86db-41d0-8d15-840e6fb8d4c4}" orientation="0">
                 <sequentialNumbers>
                     <unit>7</unit>
                     <unitFolio></unitFolio>
@@ -534,8 +558,8 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="32" orientation="0"/>
-                    <terminal x="0" y="6" id="33" orientation="2"/>
+                    <terminal x="0" y="-6" id="40" orientation="0"/>
+                    <terminal x="0" y="6" id="41" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -553,7 +577,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="420" y="370" z="10" freezeLabel="false" prefix="" uuid="{77f1af3b-500e-4785-a0af-209532ab12a2}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="420" y="390" z="10" freezeLabel="false" prefix="" uuid="{77f1af3b-500e-4785-a0af-209532ab12a2}" orientation="0">
                 <sequentialNumbers>
                     <unit>13</unit>
                     <unitFolio></unitFolio>
@@ -563,8 +587,8 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="34" orientation="0"/>
-                    <terminal x="0" y="6" id="35" orientation="2"/>
+                    <terminal x="0" y="-6" id="42" orientation="0"/>
+                    <terminal x="0" y="6" id="43" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -582,7 +606,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/200_fuses_protective_gears/20_disconnecting_switches/sectionneur_general.elmt" x="130" y="120" z="10" freezeLabel="false" prefix="Q" uuid="{74f70d85-5d37-4a7b-bfa9-aef2e47ed13d}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/200_fuses_protective_gears/20_disconnecting_switches/sectionneur_general.elmt" x="130" y="170" z="10" freezeLabel="false" prefix="Q" uuid="{74f70d85-5d37-4a7b-bfa9-aef2e47ed13d}" orientation="0">
                 <sequentialNumbers>
                     <unit>1</unit>
                     <unitFolio></unitFolio>
@@ -592,12 +616,12 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="-10" y="-17" id="36" orientation="0"/>
-                    <terminal x="10" y="-17" id="37" orientation="0"/>
-                    <terminal x="30" y="-17" id="38" orientation="0"/>
-                    <terminal x="-10" y="17" id="39" orientation="2"/>
-                    <terminal x="10" y="17" id="40" orientation="2"/>
-                    <terminal x="30" y="17" id="41" orientation="2"/>
+                    <terminal x="-10" y="-17" id="44" orientation="0"/>
+                    <terminal x="10" y="-17" id="45" orientation="0"/>
+                    <terminal x="30" y="-17" id="46" orientation="0"/>
+                    <terminal x="-10" y="17" id="47" orientation="2"/>
+                    <terminal x="10" y="17" id="48" orientation="2"/>
+                    <terminal x="30" y="17" id="49" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -620,7 +644,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel5g6mm.elmt" x="810" y="430" z="10" freezeLabel="false" prefix="" uuid="{22b2bbec-23fc-46c1-b523-57f398594465}" orientation="0">
+            <element type="embed://import/kabel/kabel5g6mm.elmt" x="810" y="460" z="10" freezeLabel="false" prefix="" uuid="{22b2bbec-23fc-46c1-b523-57f398594465}" orientation="0">
                 <sequentialNumbers>
                     <unit>7</unit>
                     <unitFolio></unitFolio>
@@ -667,7 +691,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel5g.elmt" x="150" y="430" z="10" freezeLabel="false" prefix="" uuid="{abc6f3bd-5e5b-4627-a9e6-62a6fa75fa25}" orientation="0">
+            <element type="embed://import/kabel5g.elmt" x="150" y="460" z="10" freezeLabel="false" prefix="" uuid="{abc6f3bd-5e5b-4627-a9e6-62a6fa75fa25}" orientation="0">
                 <sequentialNumbers>
                     <unit>1</unit>
                     <unitFolio></unitFolio>
@@ -708,9 +732,9 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="1010" y="70" z="10" freezeLabel="false" prefix="" uuid="{74fb8ac5-1e9f-49ac-81ac-6860012c716e}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="1010" y="80" z="10" freezeLabel="false" prefix="" uuid="{74fb8ac5-1e9f-49ac-81ac-6860012c716e}" orientation="0">
                 <terminals>
-                    <terminal x="-9" y="0" id="42" orientation="3"/>
+                    <terminal x="-9" y="0" id="50" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <dynamic_texts>
@@ -723,7 +747,7 @@
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="290" y="550" z="10" freezeLabel="false" prefix="" uuid="{aae28cfb-8fa6-4c9a-9af9-c9b4ce7c8e7a}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="43" orientation="3"/>
+                    <terminal x="-9" y="0" id="51" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -739,7 +763,7 @@
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="600" y="550" z="10" freezeLabel="false" prefix="" uuid="{0958d0f6-3053-472f-a06e-ee4bf277483c}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="44" orientation="3"/>
+                    <terminal x="-9" y="0" id="52" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <dynamic_texts>
@@ -750,7 +774,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="910" y="370" z="10" freezeLabel="false" prefix="" uuid="{3266b398-ee4f-4d8a-8317-2afd6cf54d23}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="910" y="390" z="10" freezeLabel="false" prefix="" uuid="{3266b398-ee4f-4d8a-8317-2afd6cf54d23}" orientation="0">
                 <sequentialNumbers>
                     <unit>30</unit>
                     <unitFolio></unitFolio>
@@ -760,8 +784,8 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="45" orientation="0"/>
-                    <terminal x="0" y="6" id="46" orientation="2"/>
+                    <terminal x="0" y="-6" id="53" orientation="0"/>
+                    <terminal x="0" y="6" id="54" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -781,7 +805,7 @@
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="400" y="570" z="10" freezeLabel="false" prefix="" uuid="{3de44269-4d45-46be-b159-6eada744cb64}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="47" orientation="3"/>
+                    <terminal x="-9" y="0" id="55" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -797,7 +821,7 @@
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="250" y="590" z="10" freezeLabel="false" prefix="" uuid="{174c9772-9240-4a65-9279-b266d8fd1957}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="48" orientation="3"/>
+                    <terminal x="-9" y="0" id="56" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -814,7 +838,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel5g6mm.elmt" x="940" y="430" z="10" freezeLabel="false" prefix="" uuid="{9d8b15f6-ad53-41bd-96ff-ca3581eefd16}" orientation="0">
+            <element type="embed://import/kabel/kabel5g6mm.elmt" x="940" y="460" z="10" freezeLabel="false" prefix="" uuid="{9d8b15f6-ad53-41bd-96ff-ca3581eefd16}" orientation="0">
                 <sequentialNumbers>
                     <unit>8</unit>
                     <unitFolio></unitFolio>
@@ -857,7 +881,7 @@
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="330" y="510" z="10" freezeLabel="false" prefix="" uuid="{e6de4456-9962-42ba-8667-5c7928f824a6}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="49" orientation="3"/>
+                    <terminal x="-9" y="0" id="57" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -871,7 +895,7 @@
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="470" y="370" z="10" freezeLabel="false" prefix="" uuid="{409cd6f8-26bf-49a2-a80d-bd9d662fc04f}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="470" y="390" z="10" freezeLabel="false" prefix="" uuid="{409cd6f8-26bf-49a2-a80d-bd9d662fc04f}" orientation="0">
                 <sequentialNumbers>
                     <unit>14</unit>
                     <unitFolio></unitFolio>
@@ -881,8 +905,8 @@
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="50" orientation="0"/>
-                    <terminal x="0" y="6" id="51" orientation="2"/>
+                    <terminal x="0" y="-6" id="58" orientation="0"/>
+                    <terminal x="0" y="6" id="59" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -902,7 +926,7 @@
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="910" y="590" z="10" freezeLabel="false" prefix="" uuid="{66afe68c-df17-47bc-a53b-4b0ca9b4ba5d}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="52" orientation="3"/>
+                    <terminal x="-9" y="0" id="60" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -921,7 +945,7 @@
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="560" y="590" z="10" freezeLabel="false" prefix="" uuid="{c76b9419-b0b6-46d9-84f7-78a5ad948fee}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="53" orientation="3"/>
+                    <terminal x="-9" y="0" id="61" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <dynamic_texts>
@@ -936,9 +960,9 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="1010" y="90" z="10" freezeLabel="false" prefix="" uuid="{a47f6b6e-a616-4a30-b055-d8897ab3fb34}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="1010" y="60" z="10" freezeLabel="false" prefix="" uuid="{a47f6b6e-a616-4a30-b055-d8897ab3fb34}" orientation="0">
                 <terminals>
-                    <terminal x="-9" y="0" id="54" orientation="3"/>
+                    <terminal x="-9" y="0" id="62" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <dynamic_texts>
@@ -949,14 +973,14 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/bauteile/leitungschutzschalterdin3polig.elmt" x="250" y="210" z="10" freezeLabel="false" prefix="" uuid="{0d27dde4-1668-4d11-ac3c-b25e3a7a0a47}" orientation="0">
+            <element type="embed://import/bauteile/leitungschutzschalterdin3polig.elmt" x="250" y="170" z="10" freezeLabel="false" prefix="" uuid="{0d27dde4-1668-4d11-ac3c-b25e3a7a0a47}" orientation="0">
                 <terminals>
-                    <terminal x="0" y="-16" id="55" orientation="0"/>
-                    <terminal x="20" y="-16" id="56" orientation="0"/>
-                    <terminal x="40" y="-16" id="57" orientation="0"/>
-                    <terminal x="0" y="16" id="58" orientation="2"/>
-                    <terminal x="20" y="16" id="59" orientation="2"/>
-                    <terminal x="40" y="16" id="60" orientation="2"/>
+                    <terminal x="0" y="-16" id="63" orientation="0"/>
+                    <terminal x="20" y="-16" id="64" orientation="0"/>
+                    <terminal x="40" y="-16" id="65" orientation="0"/>
+                    <terminal x="0" y="16" id="66" orientation="2"/>
+                    <terminal x="20" y="16" id="67" orientation="2"/>
+                    <terminal x="40" y="16" id="68" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -982,14 +1006,14 @@ Heizung</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/200_fuses_protective_gears/11_circuit_breakers/eaton_40a.elmt" x="120" y="280" z="10" freezeLabel="false" prefix="F" uuid="{f1b878d4-0815-4c88-afec-b3b57bb2d6d0}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/200_fuses_protective_gears/11_circuit_breakers/eaton_40a.elmt" x="120" y="300" z="10" freezeLabel="false" prefix="F" uuid="{f1b878d4-0815-4c88-afec-b3b57bb2d6d0}" orientation="0">
                 <terminals>
-                    <terminal x="0" y="-16" id="61" orientation="0"/>
-                    <terminal x="20" y="-16" id="62" orientation="0"/>
-                    <terminal x="40" y="-16" id="63" orientation="0"/>
-                    <terminal x="0" y="16" id="64" orientation="2"/>
-                    <terminal x="20" y="16" id="65" orientation="2"/>
-                    <terminal x="40" y="16" id="66" orientation="2"/>
+                    <terminal x="0" y="-16" id="69" orientation="0"/>
+                    <terminal x="20" y="-16" id="70" orientation="0"/>
+                    <terminal x="40" y="-16" id="71" orientation="0"/>
+                    <terminal x="0" y="16" id="72" orientation="2"/>
+                    <terminal x="20" y="16" id="73" orientation="2"/>
+                    <terminal x="40" y="16" id="74" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1022,11 +1046,11 @@ Heizung</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="6" y="-40" id="67" orientation="1"/>
-                    <terminal x="6" y="-20" id="68" orientation="1"/>
-                    <terminal x="6" y="0" id="69" orientation="1"/>
-                    <terminal x="6" y="20" id="70" orientation="1"/>
-                    <terminal x="6" y="40" id="71" orientation="1"/>
+                    <terminal x="6" y="-40" id="75" orientation="1"/>
+                    <terminal x="6" y="-20" id="76" orientation="1"/>
+                    <terminal x="6" y="0" id="77" orientation="1"/>
+                    <terminal x="6" y="20" id="78" orientation="1"/>
+                    <terminal x="6" y="40" id="79" orientation="1"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1036,9 +1060,9 @@ Heizung</text>
                 <dynamic_texts/>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="1010" y="110" z="10" freezeLabel="false" prefix="" uuid="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="1010" y="100" z="10" freezeLabel="false" prefix="" uuid="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" orientation="0">
                 <terminals>
-                    <terminal x="-9" y="0" id="72" orientation="3"/>
+                    <terminal x="-9" y="0" id="80" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <dynamic_texts>
@@ -1051,7 +1075,7 @@ Heizung</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="860" y="510" z="10" freezeLabel="false" prefix="" uuid="{50ce7dc7-3da7-46b2-86b7-f3f1251cae7e}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="73" orientation="3"/>
+                    <terminal x="-9" y="0" id="81" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -1067,7 +1091,7 @@ Heizung</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="380" y="590" z="10" freezeLabel="false" prefix="" uuid="{7c98772d-7ed4-4670-ba96-e14f3e8e2518}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="74" orientation="3"/>
+                    <terminal x="-9" y="0" id="82" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -1087,7 +1111,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="710" y="530" z="10" freezeLabel="false" prefix="" uuid="{a721c023-78f2-4516-98ec-e283d5b462ac}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="75" orientation="3"/>
+                    <terminal x="-9" y="0" id="83" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -1101,7 +1125,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="800" y="370" z="10" freezeLabel="false" prefix="" uuid="{618d8b6a-7e4e-490f-ae5d-e50868e84e48}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="800" y="390" z="10" freezeLabel="false" prefix="" uuid="{618d8b6a-7e4e-490f-ae5d-e50868e84e48}" orientation="0">
                 <sequentialNumbers>
                     <unit>26</unit>
                     <unitFolio></unitFolio>
@@ -1111,8 +1135,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="76" orientation="0"/>
-                    <terminal x="0" y="6" id="77" orientation="2"/>
+                    <terminal x="0" y="-6" id="84" orientation="0"/>
+                    <terminal x="0" y="6" id="85" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1132,7 +1156,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="270" y="570" z="10" freezeLabel="false" prefix="" uuid="{772b7079-3493-45a1-93d8-d92916b06c23}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="78" orientation="3"/>
+                    <terminal x="-9" y="0" id="86" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -1148,7 +1172,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="690" y="550" z="10" freezeLabel="false" prefix="" uuid="{8c970739-e140-47fd-9a6a-65ea55ed17df}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="79" orientation="3"/>
+                    <terminal x="-9" y="0" id="87" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -1162,7 +1186,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="650" y="370" z="10" freezeLabel="false" prefix="" uuid="{c0a97edc-9cd7-42df-a7b3-888bc3cf66b7}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="650" y="390" z="10" freezeLabel="false" prefix="" uuid="{c0a97edc-9cd7-42df-a7b3-888bc3cf66b7}" orientation="0">
                 <sequentialNumbers>
                     <unit>20</unit>
                     <unitFolio></unitFolio>
@@ -1172,8 +1196,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="80" orientation="0"/>
-                    <terminal x="0" y="6" id="81" orientation="2"/>
+                    <terminal x="0" y="-6" id="88" orientation="0"/>
+                    <terminal x="0" y="6" id="89" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1193,7 +1217,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="310" y="530" z="10" freezeLabel="false" prefix="" uuid="{812d0747-c524-430b-b26c-bf7ceb931fff}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="82" orientation="3"/>
+                    <terminal x="-9" y="0" id="90" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -1207,7 +1231,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="820" y="370" z="10" freezeLabel="false" prefix="" uuid="{c9dc828a-fdb8-4054-bb7c-f422fb07f9c9}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="820" y="390" z="10" freezeLabel="false" prefix="" uuid="{c9dc828a-fdb8-4054-bb7c-f422fb07f9c9}" orientation="0">
                 <sequentialNumbers>
                     <unit>27</unit>
                     <unitFolio></unitFolio>
@@ -1217,8 +1241,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="83" orientation="0"/>
-                    <terminal x="0" y="6" id="84" orientation="2"/>
+                    <terminal x="0" y="-6" id="91" orientation="0"/>
+                    <terminal x="0" y="6" id="92" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1236,9 +1260,9 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="1010" y="50" z="10" freezeLabel="false" prefix="" uuid="{ca9333b4-e214-4c85-9d38-71fa462a022f}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="1010" y="40" z="10" freezeLabel="false" prefix="" uuid="{ca9333b4-e214-4c85-9d38-71fa462a022f}" orientation="0">
                 <terminals>
-                    <terminal x="-9" y="0" id="85" orientation="3"/>
+                    <terminal x="-9" y="0" id="93" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <dynamic_texts>
@@ -1249,7 +1273,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel5g.elmt" x="280" y="430" z="10" freezeLabel="false" prefix="" uuid="{9f8e6f8a-75ae-4391-b102-b58419b1c7eb}" orientation="0">
+            <element type="embed://import/kabel/kabel5g.elmt" x="280" y="460" z="10" freezeLabel="false" prefix="" uuid="{9f8e6f8a-75ae-4391-b102-b58419b1c7eb}" orientation="0">
                 <sequentialNumbers>
                     <unit>3</unit>
                     <unitFolio></unitFolio>
@@ -1298,7 +1322,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="580" y="570" z="10" freezeLabel="false" prefix="" uuid="{7cf879fe-eaba-45ef-8dec-d41028dce359}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="86" orientation="3"/>
+                    <terminal x="-9" y="0" id="94" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <dynamic_texts>
@@ -1309,7 +1333,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="970" y="370" z="10" freezeLabel="false" prefix="" uuid="{f812d541-3faa-4763-9fd8-85551bb76b2b}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="970" y="390" z="10" freezeLabel="false" prefix="" uuid="{f812d541-3faa-4763-9fd8-85551bb76b2b}" orientation="0">
                 <sequentialNumbers>
                     <unit>31</unit>
                     <unitFolio></unitFolio>
@@ -1319,8 +1343,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="87" orientation="0"/>
-                    <terminal x="0" y="6" id="88" orientation="2"/>
+                    <terminal x="0" y="-6" id="95" orientation="0"/>
+                    <terminal x="0" y="6" id="96" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1338,7 +1362,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="580" y="370" z="10" freezeLabel="false" prefix="" uuid="{923e7503-1c51-4f0a-9bbf-aeeecdf08c92}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="580" y="390" z="10" freezeLabel="false" prefix="" uuid="{923e7503-1c51-4f0a-9bbf-aeeecdf08c92}" orientation="0">
                 <sequentialNumbers>
                     <unit>18</unit>
                     <unitFolio></unitFolio>
@@ -1348,8 +1372,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="89" orientation="0"/>
-                    <terminal x="0" y="6" id="90" orientation="2"/>
+                    <terminal x="0" y="-6" id="97" orientation="0"/>
+                    <terminal x="0" y="6" id="98" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1369,7 +1393,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="800" y="570" z="10" freezeLabel="false" prefix="" uuid="{f473f1f8-f7c1-4725-8872-4261c6ae4d4f}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="91" orientation="3"/>
+                    <terminal x="-9" y="0" id="99" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -1383,7 +1407,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/klemme4.elmt" x="140" y="370" z="10" freezeLabel="false" prefix="" uuid="{a8ce6e75-cfe0-4db4-891f-2ce4cd97c06b}" orientation="0">
+            <element type="embed://import/klemme4.elmt" x="140" y="390" z="10" freezeLabel="false" prefix="" uuid="{a8ce6e75-cfe0-4db4-891f-2ce4cd97c06b}" orientation="0">
                 <sequentialNumbers>
                     <unit>2</unit>
                     <unitFolio></unitFolio>
@@ -1393,8 +1417,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="92" orientation="0"/>
-                    <terminal x="0" y="6" id="93" orientation="2"/>
+                    <terminal x="0" y="-6" id="100" orientation="0"/>
+                    <terminal x="0" y="6" id="101" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1415,7 +1439,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="290" y="370" z="10" freezeLabel="false" prefix="" uuid="{547b22a7-07e8-4668-ba1b-0052575d8109}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="290" y="390" z="10" freezeLabel="false" prefix="" uuid="{547b22a7-07e8-4668-ba1b-0052575d8109}" orientation="0">
                 <sequentialNumbers>
                     <unit>8</unit>
                     <unitFolio></unitFolio>
@@ -1425,8 +1449,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="94" orientation="0"/>
-                    <terminal x="0" y="6" id="95" orientation="2"/>
+                    <terminal x="0" y="-6" id="102" orientation="0"/>
+                    <terminal x="0" y="6" id="103" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1444,10 +1468,10 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/bauteile/leitungsschutzschalterdin1p.elmt" x="470" y="210" z="10" freezeLabel="false" prefix="" uuid="{98d526a8-d213-42fb-8738-b376f7be6fe0}" orientation="0">
+            <element type="embed://import/bauteile/leitungsschutzschalterdin1p.elmt" x="470" y="170" z="10" freezeLabel="false" prefix="" uuid="{98d526a8-d213-42fb-8738-b376f7be6fe0}" orientation="0">
                 <terminals>
-                    <terminal x="0" y="-16" id="96" orientation="0"/>
-                    <terminal x="0" y="16" id="97" orientation="2"/>
+                    <terminal x="0" y="-16" id="104" orientation="0"/>
+                    <terminal x="0" y="16" id="105" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1473,7 +1497,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="780" y="370" z="10" freezeLabel="false" prefix="" uuid="{679f145a-8782-4ced-9dd7-2086deaeb13f}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="780" y="390" z="10" freezeLabel="false" prefix="" uuid="{679f145a-8782-4ced-9dd7-2086deaeb13f}" orientation="0">
                 <sequentialNumbers>
                     <unit>25</unit>
                     <unitFolio></unitFolio>
@@ -1483,8 +1507,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="98" orientation="0"/>
-                    <terminal x="0" y="6" id="99" orientation="2"/>
+                    <terminal x="0" y="-6" id="106" orientation="0"/>
+                    <terminal x="0" y="6" id="107" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1502,7 +1526,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="330" y="370" z="10" freezeLabel="false" prefix="" uuid="{25e452ce-7dd3-432d-97de-8637451ef963}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="330" y="390" z="10" freezeLabel="false" prefix="" uuid="{25e452ce-7dd3-432d-97de-8637451ef963}" orientation="0">
                 <sequentialNumbers>
                     <unit>10</unit>
                     <unitFolio></unitFolio>
@@ -1512,8 +1536,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="100" orientation="0"/>
-                    <terminal x="0" y="6" id="101" orientation="2"/>
+                    <terminal x="0" y="-6" id="108" orientation="0"/>
+                    <terminal x="0" y="6" id="109" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1531,7 +1555,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="560" y="370" z="10" freezeLabel="false" prefix="" uuid="{325951fd-ed96-4683-a37a-71428bbaaf41}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="560" y="390" z="10" freezeLabel="false" prefix="" uuid="{325951fd-ed96-4683-a37a-71428bbaaf41}" orientation="0">
                 <sequentialNumbers>
                     <unit>17</unit>
                     <unitFolio></unitFolio>
@@ -1541,8 +1565,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="102" orientation="0"/>
-                    <terminal x="0" y="6" id="103" orientation="2"/>
+                    <terminal x="0" y="-6" id="110" orientation="0"/>
+                    <terminal x="0" y="6" id="111" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1560,7 +1584,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="380" y="370" z="10" freezeLabel="false" prefix="" uuid="{3e8e9ac1-22fe-4aea-97dd-896571fbc966}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="380" y="390" z="10" freezeLabel="false" prefix="" uuid="{3e8e9ac1-22fe-4aea-97dd-896571fbc966}" orientation="0">
                 <sequentialNumbers>
                     <unit>11</unit>
                     <unitFolio></unitFolio>
@@ -1570,8 +1594,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="104" orientation="0"/>
-                    <terminal x="0" y="6" id="105" orientation="2"/>
+                    <terminal x="0" y="-6" id="112" orientation="0"/>
+                    <terminal x="0" y="6" id="113" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1589,7 +1613,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/klemme4.elmt" x="180" y="370" z="10" freezeLabel="false" prefix="" uuid="{ecaaa26e-6392-4508-839b-da82f77df5ce}" orientation="0">
+            <element type="embed://import/klemme4.elmt" x="180" y="390" z="10" freezeLabel="false" prefix="" uuid="{ecaaa26e-6392-4508-839b-da82f77df5ce}" orientation="0">
                 <sequentialNumbers>
                     <unit>4</unit>
                     <unitFolio></unitFolio>
@@ -1599,8 +1623,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="106" orientation="0"/>
-                    <terminal x="0" y="6" id="107" orientation="2"/>
+                    <terminal x="0" y="-6" id="114" orientation="0"/>
+                    <terminal x="0" y="6" id="115" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1621,7 +1645,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="670" y="370" z="10" freezeLabel="false" prefix="" uuid="{c07869a9-6fb2-4f0b-add7-d6b045dfb4ad}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="670" y="390" z="10" freezeLabel="false" prefix="" uuid="{c07869a9-6fb2-4f0b-add7-d6b045dfb4ad}" orientation="0">
                 <sequentialNumbers>
                     <unit>21</unit>
                     <unitFolio></unitFolio>
@@ -1631,8 +1655,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="108" orientation="0"/>
-                    <terminal x="0" y="6" id="109" orientation="2"/>
+                    <terminal x="0" y="-6" id="116" orientation="0"/>
+                    <terminal x="0" y="6" id="117" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1650,7 +1674,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="120" y="370" z="10" freezeLabel="false" prefix="" uuid="{48fd6991-4966-4e2a-87c6-f2827d55ca12}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="120" y="390" z="10" freezeLabel="false" prefix="" uuid="{48fd6991-4966-4e2a-87c6-f2827d55ca12}" orientation="0">
                 <sequentialNumbers>
                     <unit>1</unit>
                     <unitFolio></unitFolio>
@@ -1660,8 +1684,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="110" orientation="0"/>
-                    <terminal x="0" y="6" id="111" orientation="2"/>
+                    <terminal x="0" y="-6" id="118" orientation="0"/>
+                    <terminal x="0" y="6" id="119" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1679,7 +1703,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="490" y="370" z="10" freezeLabel="false" prefix="" uuid="{5895e92e-6c83-4447-8000-7a20f690ec33}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="490" y="390" z="10" freezeLabel="false" prefix="" uuid="{5895e92e-6c83-4447-8000-7a20f690ec33}" orientation="0">
                 <sequentialNumbers>
                     <unit>15</unit>
                     <unitFolio></unitFolio>
@@ -1689,8 +1713,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="112" orientation="0"/>
-                    <terminal x="0" y="6" id="113" orientation="2"/>
+                    <terminal x="0" y="-6" id="120" orientation="0"/>
+                    <terminal x="0" y="6" id="121" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1710,7 +1734,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="730" y="510" z="10" freezeLabel="false" prefix="" uuid="{9ea41d36-54b3-4123-a2d3-768b95008edf}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="114" orientation="3"/>
+                    <terminal x="-9" y="0" id="122" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -1724,7 +1748,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="250" y="370" z="10" freezeLabel="false" prefix="" uuid="{a0899dab-5bd7-4191-b20e-9e0da93fe5e5}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="250" y="390" z="10" freezeLabel="false" prefix="" uuid="{a0899dab-5bd7-4191-b20e-9e0da93fe5e5}" orientation="0">
                 <sequentialNumbers>
                     <unit>6</unit>
                     <unitFolio></unitFolio>
@@ -1734,8 +1758,8 @@ Kompressor</text>
                     <hundredFolio></hundredFolio>
                 </sequentialNumbers>
                 <terminals>
-                    <terminal x="0" y="-6" id="115" orientation="0"/>
-                    <terminal x="0" y="6" id="116" orientation="2"/>
+                    <terminal x="0" y="-6" id="123" orientation="0"/>
+                    <terminal x="0" y="6" id="124" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1755,7 +1779,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="470" y="590" z="10" freezeLabel="false" prefix="" uuid="{768c1bbd-7ba9-4ffc-af1a-0e5e36f03774}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="117" orientation="3"/>
+                    <terminal x="-9" y="0" id="125" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <dynamic_texts>
@@ -1771,7 +1795,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="820" y="550" z="10" freezeLabel="false" prefix="" uuid="{2e84eabd-b40e-4154-9776-c0bcd2506e9c}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="118" orientation="3"/>
+                    <terminal x="-9" y="0" id="126" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -1787,7 +1811,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="970" y="570" z="10" freezeLabel="false" prefix="" uuid="{f038683e-a632-4131-89d4-d905407b8acb}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="119" orientation="3"/>
+                    <terminal x="-9" y="0" id="127" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <links_uuids>
@@ -1801,7 +1825,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel5g6mm.elmt" x="680" y="430" z="10" freezeLabel="false" prefix="" uuid="{b254e56e-1704-4399-8e27-0071a411c243}" orientation="0">
+            <element type="embed://import/kabel/kabel5g6mm.elmt" x="680" y="460" z="10" freezeLabel="false" prefix="" uuid="{b254e56e-1704-4399-8e27-0071a411c243}" orientation="0">
                 <sequentialNumbers>
                     <unit>6</unit>
                     <unitFolio></unitFolio>
@@ -1848,10 +1872,10 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/bauteile/leitungsschutzschalterdin1p.elmt" x="380" y="210" z="10" freezeLabel="false" prefix="" uuid="{f2a2047d-4ec2-428e-8558-dff53f1c231d}" orientation="0">
+            <element type="embed://import/bauteile/leitungsschutzschalterdin1p.elmt" x="380" y="170" z="10" freezeLabel="false" prefix="" uuid="{f2a2047d-4ec2-428e-8558-dff53f1c231d}" orientation="0">
                 <terminals>
-                    <terminal x="0" y="-16" id="120" orientation="0"/>
-                    <terminal x="0" y="16" id="121" orientation="2"/>
+                    <terminal x="0" y="-16" id="128" orientation="0"/>
+                    <terminal x="0" y="16" id="129" orientation="2"/>
                 </terminals>
                 <inputs/>
                 <elementInformations>
@@ -1879,7 +1903,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="490" y="570" z="10" freezeLabel="false" prefix="" uuid="{dfea0a55-748a-4220-933f-ab2744e1410d}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="122" orientation="3"/>
+                    <terminal x="-9" y="0" id="130" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <dynamic_texts>
@@ -1892,7 +1916,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/110_network_supplies/terre.elmt" x="220" y="620" z="10" freezeLabel="false" prefix="" uuid="{d520d6ee-3d68-4544-8f53-2710efcd766c}" orientation="0">
                 <terminals>
-                    <terminal x="0" y="-7" id="123" orientation="0"/>
+                    <terminal x="0" y="-7" id="131" orientation="0"/>
                 </terminals>
                 <inputs/>
                 <properties>
@@ -1908,7 +1932,7 @@ Kompressor</text>
             </element>
             <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="650" y="590" z="10" freezeLabel="false" prefix="" uuid="{15049518-8b35-4ff8-98de-e954dfc2ef37}" orientation="1">
                 <terminals>
-                    <terminal x="-9" y="0" id="124" orientation="3"/>
+                    <terminal x="-9" y="0" id="132" orientation="3"/>
                 </terminals>
                 <inputs/>
                 <dynamic_texts>
@@ -1922,34 +1946,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/verbraucherzaehler.elmt" x="130" y="210" z="10" freezeLabel="false" prefix="" uuid="{73636a3c-7ff3-4c33-b83d-2b8ac91f5705}" orientation="0">
-                <sequentialNumbers>
-                    <unit>2</unit>
-                    <unitFolio></unitFolio>
-                    <ten></ten>
-                    <tenFolio></tenFolio>
-                    <hundred></hundred>
-                    <hundredFolio></hundredFolio>
-                </sequentialNumbers>
-                <terminals>
-                    <terminal x="-10" y="-16" id="125" orientation="0"/>
-                    <terminal x="10" y="-16" id="126" orientation="0"/>
-                    <terminal x="30" y="-16" id="127" orientation="0"/>
-                    <terminal x="50" y="-16" id="128" orientation="0"/>
-                    <terminal x="-10" y="16" id="129" orientation="2"/>
-                    <terminal x="10" y="16" id="130" orientation="2"/>
-                    <terminal x="30" y="16" id="131" orientation="2"/>
-                    <terminal x="50" y="16" id="132" orientation="2"/>
-                </terminals>
-                <inputs/>
-                <elementInformations>
-                    <elementInformation name="formula" show="1">X%f.%sequ_1</elementInformation>
-                    <elementInformation name="label" show="1">X4.2</elementInformation>
-                </elementInformations>
-                <dynamic_texts/>
-                <texts_groups/>
-            </element>
-            <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="1010" y="130" z="10" freezeLabel="false" prefix="" uuid="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/100_folio_referencing/02going_arrow.elmt" x="1010" y="120" z="10" freezeLabel="false" prefix="" uuid="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" orientation="0">
                 <terminals>
                     <terminal x="-9" y="0" id="133" orientation="3"/>
                 </terminals>
@@ -1962,7 +1959,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/klemme4.elmt" x="160" y="370" z="10" freezeLabel="false" prefix="" uuid="{41e14dca-cabe-49f4-bad4-e70fbd488aea}" orientation="0">
+            <element type="embed://import/klemme4.elmt" x="160" y="390" z="10" freezeLabel="false" prefix="" uuid="{41e14dca-cabe-49f4-bad4-e70fbd488aea}" orientation="0">
                 <sequentialNumbers>
                     <unit>3</unit>
                     <unitFolio></unitFolio>
@@ -2026,7 +2023,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="310" y="370" z="10" freezeLabel="false" prefix="" uuid="{fe0b6123-86d2-41e5-a520-06c50483da84}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="310" y="390" z="10" freezeLabel="false" prefix="" uuid="{fe0b6123-86d2-41e5-a520-06c50483da84}" orientation="0">
                 <sequentialNumbers>
                     <unit>9</unit>
                     <unitFolio></unitFolio>
@@ -2055,7 +2052,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="860" y="370" z="10" freezeLabel="false" prefix="" uuid="{37552943-1558-489a-80e7-94275227a345}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="860" y="390" z="10" freezeLabel="false" prefix="" uuid="{37552943-1558-489a-80e7-94275227a345}" orientation="0">
                 <sequentialNumbers>
                     <unit>29</unit>
                     <unitFolio></unitFolio>
@@ -2084,7 +2081,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel3gnpe.elmt" x="560" y="430" z="10" freezeLabel="false" prefix="" uuid="{291203ba-95f6-4cd8-842b-4d8aa02cc87e}" orientation="0">
+            <element type="embed://import/kabel/kabel3gnpe.elmt" x="560" y="460" z="10" freezeLabel="false" prefix="" uuid="{291203ba-95f6-4cd8-842b-4d8aa02cc87e}" orientation="0">
                 <sequentialNumbers>
                     <unit>5</unit>
                     <unitFolio></unitFolio>
@@ -2142,7 +2139,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="690" y="370" z="10" freezeLabel="false" prefix="" uuid="{8716b2d6-76d4-4909-9be8-cb838d3cd4ad}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="690" y="390" z="10" freezeLabel="false" prefix="" uuid="{8716b2d6-76d4-4909-9be8-cb838d3cd4ad}" orientation="0">
                 <sequentialNumbers>
                     <unit>22</unit>
                     <unitFolio></unitFolio>
@@ -2171,7 +2168,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel3gnpe.elmt" x="380" y="430" z="10" freezeLabel="false" prefix="" uuid="{ef1755b5-cdb9-4616-aa56-9909e6b32dff}" orientation="0">
+            <element type="embed://import/kabel/kabel3gnpe.elmt" x="380" y="460" z="10" freezeLabel="false" prefix="" uuid="{ef1755b5-cdb9-4616-aa56-9909e6b32dff}" orientation="0">
                 <sequentialNumbers>
                     <unit>3</unit>
                     <unitFolio></unitFolio>
@@ -2213,7 +2210,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel3gnpe.elmt" x="470" y="430" z="10" freezeLabel="false" prefix="" uuid="{ee95898a-ff30-408e-85df-0813bbf9db39}" orientation="0">
+            <element type="embed://import/kabel/kabel3gnpe.elmt" x="470" y="460" z="10" freezeLabel="false" prefix="" uuid="{ee95898a-ff30-408e-85df-0813bbf9db39}" orientation="0">
                 <sequentialNumbers>
                     <unit>4</unit>
                     <unitFolio></unitFolio>
@@ -2271,7 +2268,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/startklemme.elmt" x="510" y="370" z="10" freezeLabel="false" prefix="" uuid="{dcbc932f-9de0-4e68-b129-07cd8425adb1}" orientation="0">
+            <element type="embed://import/startklemme.elmt" x="510" y="390" z="10" freezeLabel="false" prefix="" uuid="{dcbc932f-9de0-4e68-b129-07cd8425adb1}" orientation="0">
                 <sequentialNumbers>
                     <unit>16</unit>
                     <unitFolio></unitFolio>
@@ -2300,15 +2297,69 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
+            <element type="embed://import/verbraucherzaehler.elmt" x="660" y="300" z="10" freezeLabel="false" prefix="" uuid="{7bba1683-5b46-49ef-b3fe-31eafa13a812}" orientation="0">
+                <sequentialNumbers>
+                    <unit>2</unit>
+                    <unitFolio></unitFolio>
+                    <ten></ten>
+                    <tenFolio></tenFolio>
+                    <hundred></hundred>
+                    <hundredFolio></hundredFolio>
+                </sequentialNumbers>
+                <terminals>
+                    <terminal x="-10" y="-16" id="148" orientation="0"/>
+                    <terminal x="10" y="-16" id="149" orientation="0"/>
+                    <terminal x="30" y="-16" id="150" orientation="0"/>
+                    <terminal x="50" y="-16" id="151" orientation="0"/>
+                    <terminal x="-10" y="16" id="152" orientation="2"/>
+                    <terminal x="10" y="16" id="153" orientation="2"/>
+                    <terminal x="30" y="16" id="154" orientation="2"/>
+                    <terminal x="50" y="16" id="155" orientation="2"/>
+                </terminals>
+                <inputs/>
+                <elementInformations/>
+                <dynamic_texts/>
+                <texts_groups/>
+            </element>
+            <element type="embed://import/verbraucherzaehler.elmt" x="260" y="300" z="10" freezeLabel="false" prefix="" uuid="{28bca3e9-8b89-4214-9131-7993e120817b}" orientation="0">
+                <sequentialNumbers>
+                    <unit>2</unit>
+                    <unitFolio></unitFolio>
+                    <ten></ten>
+                    <tenFolio></tenFolio>
+                    <hundred></hundred>
+                    <hundredFolio></hundredFolio>
+                </sequentialNumbers>
+                <terminals>
+                    <terminal x="-10" y="-16" id="156" orientation="0"/>
+                    <terminal x="10" y="-16" id="157" orientation="0"/>
+                    <terminal x="30" y="-16" id="158" orientation="0"/>
+                    <terminal x="50" y="-16" id="159" orientation="0"/>
+                    <terminal x="-10" y="16" id="160" orientation="2"/>
+                    <terminal x="10" y="16" id="161" orientation="2"/>
+                    <terminal x="30" y="16" id="162" orientation="2"/>
+                    <terminal x="50" y="16" id="163" orientation="2"/>
+                </terminals>
+                <inputs/>
+                <elementInformations/>
+                <dynamic_texts/>
+                <texts_groups/>
+            </element>
         </elements>
         <conductors>
             <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{60ec3aa7-24da-49de-bb0b-2a5d3d8829a7}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.24" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="FI 4 Pol Typ A 25A 30mA" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{28bca3e9-8b89-4214-9131-7993e120817b}" condsize="1" numsize="7" element2="{56f7a090-e163-4bda-a1f4-b94be0887299}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{a5a22122-75a8-4814-b3d2-5d3247066c46}" terminalname1="L1" terminal2="{43537fb9-183c-4184-9548-997e281ac278}" terminalname2="" element2_label="-F4.10" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Lasttrenner 3-polig" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter 3-polig" bicolor="false" element1="{f1b878d4-0815-4c88-afec-b3b57bb2d6d0}" condsize="1" numsize="7" element2="{74f70d85-5d37-4a7b-bfa9-aef2e47ed13d}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{36408992-60ec-458f-aaf2-9fad8364dc71}" terminalname1="IN.1" terminal2="{9931a52f-659f-4d12-bfc3-0064063773f8}" terminalname2="" element2_label="-Q4.1" element1_label="-F4.1" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemmeohnebmk" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Drehstrom + PE +N" bicolor="false" element1="{33779ae0-3481-4b87-99ea-7a6268bdb533}" condsize="1" numsize="7" element2="{ecaaa26e-6392-4508-839b-da82f77df5ce}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{1ca64835-095b-4f91-943e-829d6702e206}" terminalname1="N" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.4" element1_label="X3.6" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{5cf6fc7a-0cdb-40e7-8647-8fc65b84e9a4}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.32" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+            <conductor num="" conductor_color="" type="multi" element2_name="Lasttrenner 3-polig" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter 3-polig" bicolor="false" element1="{f1b878d4-0815-4c88-afec-b3b57bb2d6d0}" condsize="1" numsize="7" element2="{74f70d85-5d37-4a7b-bfa9-aef2e47ed13d}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{321002bd-3d35-4ace-91ba-11a70518ba2e}" terminalname1="IN.3" terminal2="{5f4eaac4-4cd7-48ac-ae6c-ece883b0090a}" terminalname2="" element2_label="-Q4.1" element1_label="-F4.1" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Leitungsschutzschalter B20A 3-polig" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="FI 4 Pol Typ A 25A 30mA" bicolor="false" element1="{56f7a090-e163-4bda-a1f4-b94be0887299}" condsize="1" numsize="7" element2="{0d27dde4-1668-4d11-ac3c-b25e3a7a0a47}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{52da2742-3b92-4f68-bd45-eb3f6095c56e}" terminalname1="" terminal2="{293d4501-6953-4355-a532-4d968b01d705}" terminalname2="OUT.6" element2_label="-F4.2" element1_label="-F4.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -2320,19 +2371,118 @@ Kompressor</text>
             <conductor num="" conductor_color="" type="multi" element2_name="Leitungsschutzschalter B20A 3-polig" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="FI 4 Pol Typ A 25A 30mA" bicolor="false" element1="{56f7a090-e163-4bda-a1f4-b94be0887299}" condsize="1" numsize="7" element2="{0d27dde4-1668-4d11-ac3c-b25e3a7a0a47}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{5ae4b8b4-1ca6-4b24-9663-a5046b1720a2}" terminalname1="" terminal2="{562cbd97-4eb7-4a48-8569-1900c40f6f33}" terminalname2="OUT.2" element2_label="-F4.2" element1_label="-F4.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="FI 4 Pol Typ A 25A 30mA" bicolor="false" element1="{56f7a090-e163-4bda-a1f4-b94be0887299}" condsize="1" numsize="7" element2="{a0899dab-5bd7-4191-b20e-9e0da93fe5e5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{43537fb9-183c-4184-9548-997e281ac278}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.6" element1_label="-F4.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter B20A 3-polig" bicolor="false" element1="{0d27dde4-1668-4d11-ac3c-b25e3a7a0a47}" condsize="1" numsize="7" element2="{74fb8ac5-1e9f-49ac-81ac-6860012c716e}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{375e238f-46f3-4ef0-849d-671065de9946}" terminalname1="IN.5" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="-F4.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter 1-polig B16A" bicolor="false" element1="{98d526a8-d213-42fb-8738-b376f7be6fe0}" condsize="1" numsize="7" element2="{ca9333b4-e214-4c85-9d38-71fa462a022f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="6mm²" vertical-alignment="AlignRight" terminal1="{36408992-60ec-458f-aaf2-9fad8364dc71}" terminalname1="IN.1" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="-F4.3" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Fehlerstromschutzschalter 2-polig Typ A" bicolor="false" element1="{ac53cd55-3ccd-4f06-9eca-e0b7ea22d71f}" condsize="1" numsize="7" element2="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{77317db1-405e-460d-b988-23fbdcc603b1}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="-F4.12" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{28bca3e9-8b89-4214-9131-7993e120817b}" condsize="1" numsize="7" element2="{a0899dab-5bd7-4191-b20e-9e0da93fe5e5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{a1f83453-2a04-444f-a6f1-190c10eb5fec}" terminalname1="L1.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.6" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{7bba1683-5b46-49ef-b3fe-31eafa13a812}" condsize="1" numsize="7" element2="{a47f6b6e-a616-4a30-b055-d8897ab3fb34}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{33064eff-e1af-48fe-887b-ab577ad81ca0}" terminalname1="L2" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{baea981f-af57-4504-a968-4af6bd84311c}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.19" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter B20A 3-polig" bicolor="false" element1="{0d27dde4-1668-4d11-ac3c-b25e3a7a0a47}" condsize="1" numsize="7" element2="{ca9333b4-e214-4c85-9d38-71fa462a022f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="6mm²" vertical-alignment="AlignRight" terminal1="{36408992-60ec-458f-aaf2-9fad8364dc71}" terminalname1="IN.1" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="-F4.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{7bba1683-5b46-49ef-b3fe-31eafa13a812}" condsize="1" numsize="7" element2="{8716b2d6-76d4-4909-9be8-cb838d3cd4ad}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{43ba7e78-26a4-4cb8-9c95-7fd02fa9daa2}" terminalname1="L3.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.22" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{7bba1683-5b46-49ef-b3fe-31eafa13a812}" condsize="1" numsize="7" element2="{74fb8ac5-1e9f-49ac-81ac-6860012c716e}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{afeb6676-ad4b-4f6a-936b-084dad546edd}" terminalname1="L3" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{37552943-1558-489a-80e7-94275227a345}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.29" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{3985d122-3f08-4e29-b90c-083c902a08c6}" condsize="1" numsize="7" element2="{ca9333b4-e214-4c85-9d38-71fa462a022f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="6mm²" vertical-alignment="AlignRight" terminal1="{a5a22122-75a8-4814-b3d2-5d3247066c46}" terminalname1="L1" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="FI 4 Pol Typ A 25A 30mA" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{28bca3e9-8b89-4214-9131-7993e120817b}" condsize="1" numsize="7" element2="{56f7a090-e163-4bda-a1f4-b94be0887299}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{afeb6676-ad4b-4f6a-936b-084dad546edd}" terminalname1="L3" terminal2="{758ca1e2-1494-418a-bbb1-3907c0d8fb10}" terminalname2="" element2_label="-F4.10" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{28bca3e9-8b89-4214-9131-7993e120817b}" condsize="1" numsize="7" element2="{679c4d08-86db-41d0-8d15-840e6fb8d4c4}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{c5518603-6161-4a2b-be7d-9d45f8157319}" terminalname1="L2.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.7" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{28bca3e9-8b89-4214-9131-7993e120817b}" condsize="1" numsize="7" element2="{547b22a7-07e8-4668-ba1b-0052575d8109}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{43ba7e78-26a4-4cb8-9c95-7fd02fa9daa2}" terminalname1="L3.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.8" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{7bba1683-5b46-49ef-b3fe-31eafa13a812}" condsize="1" numsize="7" element2="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{6ce99a63-094a-4eed-a207-754ee9696a3f}" terminalname1="N" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="FI 4 Pol Typ A 25A 30mA" bicolor="false" element1="{56f7a090-e163-4bda-a1f4-b94be0887299}" condsize="1" numsize="7" element2="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{f59e8912-7b76-487b-b045-42c5ca2197d3}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="-F4.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="FI 4 Pol Typ A 25A 30mA" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{28bca3e9-8b89-4214-9131-7993e120817b}" condsize="1" numsize="7" element2="{56f7a090-e163-4bda-a1f4-b94be0887299}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{33064eff-e1af-48fe-887b-ab577ad81ca0}" terminalname1="L2" terminal2="{6401ebde-1025-4f9d-8fc6-8d0fb00cc0b2}" terminalname2="" element2_label="-F4.10" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter 1-polig B16A" bicolor="false" element1="{f2a2047d-4ec2-428e-8558-dff53f1c231d}" condsize="1" numsize="7" element2="{ca9333b4-e214-4c85-9d38-71fa462a022f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="6mm²" vertical-alignment="AlignRight" terminal1="{36408992-60ec-458f-aaf2-9fad8364dc71}" terminalname1="IN.1" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="-F4.3" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{7bba1683-5b46-49ef-b3fe-31eafa13a812}" condsize="1" numsize="7" element2="{6e48d247-574b-45ee-8a98-6cf88859d2ac}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{65e81e88-b24a-40b7-bd25-034b6e9a8232}" terminalname1="N.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.23" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Fehlerstromschutzschalter 2-polig Typ A" bicolor="false" element1="{443e3ac5-f93d-4c8d-b292-a21182e88317}" condsize="1" numsize="7" element2="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{77317db1-405e-460d-b988-23fbdcc603b1}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="-F4.11" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{77f1af3b-500e-4785-a0af-209532ab12a2}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.13" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{7bba1683-5b46-49ef-b3fe-31eafa13a812}" condsize="1" numsize="7" element2="{c07869a9-6fb2-4f0b-add7-d6b045dfb4ad}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{c5518603-6161-4a2b-be7d-9d45f8157319}" terminalname1="L2.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.21" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{3985d122-3f08-4e29-b90c-083c902a08c6}" condsize="1" numsize="7" element2="{74fb8ac5-1e9f-49ac-81ac-6860012c716e}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{afeb6676-ad4b-4f6a-936b-084dad546edd}" terminalname1="L3" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{f812d541-3faa-4763-9fd8-85551bb76b2b}" condsize="1" numsize="7" element2="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.31" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{3985d122-3f08-4e29-b90c-083c902a08c6}" condsize="1" numsize="7" element2="{a47f6b6e-a616-4a30-b055-d8897ab3fb34}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{33064eff-e1af-48fe-887b-ab577ad81ca0}" terminalname1="L2" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{5cf6fc7a-0cdb-40e7-8647-8fc65b84e9a4}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.32" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="FI 4 Pol Typ A 25A 30mA" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{28bca3e9-8b89-4214-9131-7993e120817b}" condsize="1" numsize="7" element2="{56f7a090-e163-4bda-a1f4-b94be0887299}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{6ce99a63-094a-4eed-a207-754ee9696a3f}" terminalname1="N" terminal2="{4e74bbf8-65a6-48aa-b427-0462805d82db}" terminalname2="" element2_label="-F4.10" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{3985d122-3f08-4e29-b90c-083c902a08c6}" condsize="1" numsize="7" element2="{679f145a-8782-4ced-9dd7-2086deaeb13f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{a1f83453-2a04-444f-a6f1-190c10eb5fec}" terminalname1="L1.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.25" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{28bca3e9-8b89-4214-9131-7993e120817b}" condsize="1" numsize="7" element2="{fe0b6123-86d2-41e5-a520-06c50483da84}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{65e81e88-b24a-40b7-bd25-034b6e9a8232}" terminalname1="N.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.9" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{25e452ce-7dd3-432d-97de-8637451ef963}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{dcbc932f-9de0-4e68-b129-07cd8425adb1}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.16" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{3266b398-ee4f-4d8a-8317-2afd6cf54d23}" condsize="1" numsize="7" element2="{ca9333b4-e214-4c85-9d38-71fa462a022f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.30" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{7bba1683-5b46-49ef-b3fe-31eafa13a812}" condsize="1" numsize="7" element2="{c0a97edc-9cd7-42df-a7b3-888bc3cf66b7}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="6mm²" vertical-alignment="AlignRight" terminal1="{a1f83453-2a04-444f-a6f1-190c10eb5fec}" terminalname1="L1.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.20" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{7bba1683-5b46-49ef-b3fe-31eafa13a812}" condsize="1" numsize="7" element2="{ca9333b4-e214-4c85-9d38-71fa462a022f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="6mm²" vertical-alignment="AlignRight" terminal1="{a5a22122-75a8-4814-b3d2-5d3247066c46}" terminalname1="L1" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter B20A 3-polig" bicolor="false" element1="{0d27dde4-1668-4d11-ac3c-b25e3a7a0a47}" condsize="1" numsize="7" element2="{a47f6b6e-a616-4a30-b055-d8897ab3fb34}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{321002bd-3d35-4ace-91ba-11a70518ba2e}" terminalname1="IN.3" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="-F4.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{3985d122-3f08-4e29-b90c-083c902a08c6}" condsize="1" numsize="7" element2="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{6ce99a63-094a-4eed-a207-754ee9696a3f}" terminalname1="N" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{aae28cfb-8fa6-4c9a-9af9-c9b4ce7c8e7a}" condsize="1" element2="{547b22a7-07e8-4668-ba1b-0052575d8109}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.8" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" element2_linked="" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{c07869a9-6fb2-4f0b-add7-d6b045dfb4ad}" condsize="1" element2="{edabd4bb-fee5-4677-ae8c-770ff8c363ca}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.21" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemmeohnebmk" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{73636a3c-7ff3-4c33-b83d-2b8ac91f5705}" condsize="1" numsize="7" element2="{ecaaa26e-6392-4508-839b-da82f77df5ce}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{65e81e88-b24a-40b7-bd25-034b6e9a8232}" terminalname1="N.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.4" element1_label="X4.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Leitungsschutzschalter 3-polig" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{73636a3c-7ff3-4c33-b83d-2b8ac91f5705}" condsize="1" numsize="7" element2="{f1b878d4-0815-4c88-afec-b3b57bb2d6d0}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{c5518603-6161-4a2b-be7d-9d45f8157319}" terminalname1="L2.1" terminal2="{321002bd-3d35-4ace-91ba-11a70518ba2e}" terminalname2="IN.3" element2_label="-F4.1" element1_label="X4.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{a8c3e302-43af-44a5-8708-3ab6ccfd0fd0}" condsize="1" element2="{77f1af3b-500e-4785-a0af-209532ab12a2}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.13" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -2360,16 +2510,10 @@ Kompressor</text>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{623e917d-2d0b-4943-a027-f0699038a9a5}" condsize="1" element2="{b302a43c-4301-4a71-9040-9c98d487ad4e}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.28" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{25e452ce-7dd3-432d-97de-8637451ef963}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{50ce7dc7-3da7-46b2-86b7-f3f1251cae7e}" condsize="1" element2="{37552943-1558-489a-80e7-94275227a345}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.29" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{768c1bbd-7ba9-4ffc-af1a-0e5e36f03774}" condsize="1" numsize="7" element2="{409cd6f8-26bf-49a2-a80d-bd9d662fc04f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.14" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{f812d541-3faa-4763-9fd8-85551bb76b2b}" condsize="1" numsize="7" element2="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.31" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" element2_linked="" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{5cf6fc7a-0cdb-40e7-8647-8fc65b84e9a4}" condsize="1" element2="{7b1d2949-b3ad-4fd3-8837-bf3b5cc7501f}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.32" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -2379,9 +2523,6 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" element2_linked="" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{6e48d247-574b-45ee-8a98-6cf88859d2ac}" condsize="1" element2="{a721c023-78f2-4516-98ec-e283d5b462ac}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.23" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Leitungsschutzschalter 3-polig" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{73636a3c-7ff3-4c33-b83d-2b8ac91f5705}" condsize="1" numsize="7" element2="{f1b878d4-0815-4c88-afec-b3b57bb2d6d0}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{43ba7e78-26a4-4cb8-9c95-7fd02fa9daa2}" terminalname1="L3.1" terminal2="{375e238f-46f3-4ef0-849d-671065de9946}" terminalname2="IN.5" element2_label="-F4.1" element1_label="X4.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{7cf879fe-eaba-45ef-8dec-d41028dce359}" condsize="1" numsize="7" element2="{923e7503-1c51-4f0a-9bbf-aeeecdf08c92}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.18" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -2396,30 +2537,10 @@ Kompressor</text>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{7c98772d-7ed4-4670-ba96-e14f3e8e2518}" condsize="1" element2="{3e8e9ac1-22fe-4aea-97dd-896571fbc966}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.11" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{77f1af3b-500e-4785-a0af-209532ab12a2}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.13" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Energiezähler 3ph." x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Fehlerstromschutzschalter 2-polig Typ A" bicolor="false" element1="{443e3ac5-f93d-4c8d-b292-a21182e88317}" condsize="1" numsize="7" element2="{73636a3c-7ff3-4c33-b83d-2b8ac91f5705}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{77317db1-405e-460d-b988-23fbdcc603b1}" terminalname1="" terminal2="{6ce99a63-094a-4eed-a207-754ee9696a3f}" terminalname2="N" element2_label="X4.2" element1_label="-F4.11" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-10"/>
-                <segment orientation="vertical" length="-130"/>
-                <segment orientation="horizontal" length="-220"/>
-                <segment orientation="vertical" length="70"/>
-                <segment orientation="vertical" length="10"/>
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="FI 4 Pol Typ A 25A 30mA" bicolor="false" element1="{56f7a090-e163-4bda-a1f4-b94be0887299}" condsize="1" numsize="7" element2="{547b22a7-07e8-4668-ba1b-0052575d8109}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{758ca1e2-1494-418a-bbb1-3907c0d8fb10}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.8" element1_label="-F4.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{c07869a9-6fb2-4f0b-add7-d6b045dfb4ad}" condsize="1" numsize="7" element2="{74fb8ac5-1e9f-49ac-81ac-6860012c716e}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.21" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemmeohnebmk" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" condsize="1" numsize="7" element2="{910d0353-b844-470f-8dcb-a27b78e0fe16}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.5" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" element2_linked="" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{c9dc828a-fdb8-4054-bb7c-f422fb07f9c9}" condsize="1" element2="{2e84eabd-b40e-4154-9776-c0bcd2506e9c}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.27" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter B20A 3-polig" bicolor="false" element1="{0d27dde4-1668-4d11-ac3c-b25e3a7a0a47}" condsize="1" numsize="7" element2="{ca9333b4-e214-4c85-9d38-71fa462a022f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="6mm²" vertical-alignment="AlignRight" terminal1="{36408992-60ec-458f-aaf2-9fad8364dc71}" terminalname1="IN.1" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="-F4.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter B20A 3-polig" bicolor="false" element1="{0d27dde4-1668-4d11-ac3c-b25e3a7a0a47}" condsize="1" numsize="7" element2="{a47f6b6e-a616-4a30-b055-d8897ab3fb34}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{321002bd-3d35-4ace-91ba-11a70518ba2e}" terminalname1="IN.3" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="-F4.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemmeohnebmk" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Drehstrom + PE +N" bicolor="false" element1="{33779ae0-3481-4b87-99ea-7a6268bdb533}" condsize="1" numsize="7" element2="{910d0353-b844-470f-8dcb-a27b78e0fe16}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{2954e6c9-5956-4ddd-83d6-f7cbfc729027}" terminalname1="PE" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.5" element1_label="X3.6" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -2428,22 +2549,13 @@ Kompressor</text>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemmeohnebmk" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Drehstrom + PE +N" bicolor="false" element1="{33779ae0-3481-4b87-99ea-7a6268bdb533}" condsize="1" numsize="7" element2="{a8ce6e75-cfe0-4db4-891f-2ce4cd97c06b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{639ce249-0313-4c33-8ce4-0c09df4b43ab}" terminalname1="L2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.2" element1_label="X3.6" userx="140" usery="490" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{679f145a-8782-4ced-9dd7-2086deaeb13f}" condsize="1" numsize="7" element2="{ca9333b4-e214-4c85-9d38-71fa462a022f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.25" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+            <conductor num="" conductor_color="" type="multi" element2_name="Lasttrenner 3-polig" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter 3-polig" bicolor="false" element1="{f1b878d4-0815-4c88-afec-b3b57bb2d6d0}" condsize="1" numsize="7" element2="{74f70d85-5d37-4a7b-bfa9-aef2e47ed13d}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{375e238f-46f3-4ef0-849d-671065de9946}" terminalname1="IN.5" terminal2="{2cce28f4-cb97-4349-87c9-c4c976ad82e8}" terminalname2="" element2_label="-Q4.1" element1_label="-F4.1" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" element2_linked="" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{618d8b6a-7e4e-490f-ae5d-e50868e84e48}" condsize="1" element2="{f473f1f8-f7c1-4725-8872-4261c6ae4d4f}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.26" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Leitungsschutzschalter 3-polig" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{73636a3c-7ff3-4c33-b83d-2b8ac91f5705}" condsize="1" numsize="7" element2="{f1b878d4-0815-4c88-afec-b3b57bb2d6d0}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{a1f83453-2a04-444f-a6f1-190c10eb5fec}" terminalname1="L1.1" terminal2="{36408992-60ec-458f-aaf2-9fad8364dc71}" terminalname2="IN.1" element2_label="-F4.1" element1_label="X4.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{8716b2d6-76d4-4909-9be8-cb838d3cd4ad}" condsize="1" numsize="7" element2="{a47f6b6e-a616-4a30-b055-d8897ab3fb34}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.22" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Leitungsschutzschalter 1-polig B16A" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Fehlerstromschutzschalter 2-polig Typ A" bicolor="false" element1="{ac53cd55-3ccd-4f06-9eca-e0b7ea22d71f}" condsize="1" numsize="7" element2="{98d526a8-d213-42fb-8738-b376f7be6fe0}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{310dd149-4214-4a80-840a-9d04f6aef916}" terminalname1="" terminal2="{562cbd97-4eb7-4a48-8569-1900c40f6f33}" terminalname2="OUT.2" element2_label="-F4.3" element1_label="-F4.12" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{baea981f-af57-4504-a968-4af6bd84311c}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.19" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemmeohnebmk" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Drehstrom + PE +N" bicolor="false" element1="{33779ae0-3481-4b87-99ea-7a6268bdb533}" condsize="1" numsize="7" element2="{41e14dca-cabe-49f4-bad4-e70fbd488aea}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{91bca3aa-68f6-4026-8bb9-d22de4ab6b33}" terminalname1="L3" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.3" element1_label="X3.6" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -2459,15 +2571,6 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{e6de4456-9962-42ba-8667-5c7928f824a6}" condsize="1" element2="{25e452ce-7dd3-432d-97de-8637451ef963}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.10" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter 1-polig B16A" bicolor="false" element1="{f2a2047d-4ec2-428e-8558-dff53f1c231d}" condsize="1" numsize="7" element2="{ca9333b4-e214-4c85-9d38-71fa462a022f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="6mm²" vertical-alignment="AlignRight" terminal1="{36408992-60ec-458f-aaf2-9fad8364dc71}" terminalname1="IN.1" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="-F4.3" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{dcbc932f-9de0-4e68-b129-07cd8425adb1}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.16" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{b302a43c-4301-4a71-9040-9c98d487ad4e}" condsize="1" numsize="7" element2="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.28" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Drehstrom + PE +N" bicolor="false" element1="{33779ae0-3481-4b87-99ea-7a6268bdb533}" condsize="1" numsize="7" element2="{48fd6991-4966-4e2a-87c6-f2827d55ca12}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{6996d331-855c-4aaa-9dd0-02ca5028d882}" terminalname1="L1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.1" element1_label="X3.6" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -2486,26 +2589,10 @@ Kompressor</text>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Fehlerstromschutzschalter 2-polig Typ A" bicolor="false" element1="{443e3ac5-f93d-4c8d-b292-a21182e88317}" condsize="1" numsize="7" element2="{3e8e9ac1-22fe-4aea-97dd-896571fbc966}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{8e8c3f97-d8d4-450a-804b-467500ab08b4}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.11" element1_label="-F4.11" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="WB_4.04" conductor_color="" type="multi" element2_name="Energiezähler 3ph." x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Lasttrenner 3-polig" bicolor="false" element1="{74f70d85-5d37-4a7b-bfa9-aef2e47ed13d}" condsize="1" numsize="7" element2="{73636a3c-7ff3-4c33-b83d-2b8ac91f5705}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{2cce28f4-cb97-4349-87c9-c4c976ad82e8}" terminalname1="" terminal2="{afeb6676-ad4b-4f6a-936b-084dad546edd}" terminalname2="L3" element2_label="X4.2" element1_label="-Q4.1" userx="170" usery="190" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="WB_%f.%seqt_1" cable="">
-                <sequentialNumbers>
-                    <unit></unit>
-                    <unitFolio></unitFolio>
-                    <ten>04</ten>
-                    <tenFolio></tenFolio>
-                    <hundred></hundred>
-                    <hundredFolio></hundredFolio>
-                </sequentialNumbers>
-            </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{812d0747-c524-430b-b26c-bf7ceb931fff}" condsize="1" element2="{fe0b6123-86d2-41e5-a520-06c50483da84}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.9" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter 3-polig" bicolor="false" element1="{f1b878d4-0815-4c88-afec-b3b57bb2d6d0}" condsize="1" numsize="7" element2="{48fd6991-4966-4e2a-87c6-f2827d55ca12}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{562cbd97-4eb7-4a48-8569-1900c40f6f33}" terminalname1="OUT.2" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.1" element1_label="-F4.1" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{c0a97edc-9cd7-42df-a7b3-888bc3cf66b7}" condsize="1" numsize="7" element2="{ca9333b4-e214-4c85-9d38-71fa462a022f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="6mm²" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.20" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="FI 4 Pol Typ A 25A 30mA" bicolor="false" element1="{56f7a090-e163-4bda-a1f4-b94be0887299}" condsize="1" numsize="7" element2="{679c4d08-86db-41d0-8d15-840e6fb8d4c4}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{6401ebde-1025-4f9d-8fc6-8d0fb00cc0b2}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.7" element1_label="-F4.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" element2_linked="" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{679f145a-8782-4ced-9dd7-2086deaeb13f}" condsize="1" element2="{e126c847-9f37-47e8-b7d3-057dae57eea8}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="6mm²" vertical-alignment="AlignRight" terminal1="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.25" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -2514,32 +2601,7 @@ Kompressor</text>
             <conductor num="" conductor_color="" type="multi" element2_name="Lasttrenner 3-polig" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{74fb8ac5-1e9f-49ac-81ac-6860012c716e}" condsize="1" numsize="7" element2="{74f70d85-5d37-4a7b-bfa9-aef2e47ed13d}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{75a04353-9843-4644-a0c8-b33512d0ac2f}" terminalname2="" element2_label="-Q4.1" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{6e48d247-574b-45ee-8a98-6cf88859d2ac}" condsize="1" numsize="7" element2="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.23" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="FI 4 Pol Typ A 25A 30mA" bicolor="false" element1="{56f7a090-e163-4bda-a1f4-b94be0887299}" condsize="1" numsize="7" element2="{fe0b6123-86d2-41e5-a520-06c50483da84}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{4e74bbf8-65a6-48aa-b427-0462805d82db}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.9" element1_label="-F4.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="WB_4.04" conductor_color="" type="multi" element2_name="Energiezähler 3ph." x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Lasttrenner 3-polig" bicolor="false" element1="{74f70d85-5d37-4a7b-bfa9-aef2e47ed13d}" condsize="1" numsize="7" element2="{73636a3c-7ff3-4c33-b83d-2b8ac91f5705}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{5f4eaac4-4cd7-48ac-ae6c-ece883b0090a}" terminalname1="" terminal2="{33064eff-e1af-48fe-887b-ab577ad81ca0}" terminalname2="L2" element2_label="X4.2" element1_label="-Q4.1" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="WB_%f.%seqt_1" cable="">
-                <sequentialNumbers>
-                    <unit></unit>
-                    <unitFolio></unitFolio>
-                    <ten>04</ten>
-                    <tenFolio></tenFolio>
-                    <hundred></hundred>
-                    <hundredFolio></hundredFolio>
-                </sequentialNumbers>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{aae28cfb-8fa6-4c9a-9af9-c9b4ce7c8e7a}" condsize="1" element2="{547b22a7-07e8-4668-ba1b-0052575d8109}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.8" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Leitungsschutzschalter 1-polig B16A" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Fehlerstromschutzschalter 2-polig Typ A" bicolor="false" element1="{443e3ac5-f93d-4c8d-b292-a21182e88317}" condsize="1" numsize="7" element2="{f2a2047d-4ec2-428e-8558-dff53f1c231d}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{310dd149-4214-4a80-840a-9d04f6aef916}" terminalname1="" terminal2="{562cbd97-4eb7-4a48-8569-1900c40f6f33}" terminalname2="OUT.2" element2_label="-F4.3" element1_label="-F4.11" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{618d8b6a-7e4e-490f-ae5d-e50868e84e48}" condsize="1" numsize="7" element2="{74fb8ac5-1e9f-49ac-81ac-6860012c716e}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.26" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{73636a3c-7ff3-4c33-b83d-2b8ac91f5705}" condsize="1" numsize="7" element2="{81bf6046-e41b-4bb7-95f2-f59eb03d0065}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{6ce99a63-094a-4eed-a207-754ee9696a3f}" terminalname1="N" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="X4.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemmeohnebmk" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Erde" bicolor="false" element1="{d520d6ee-3d68-4544-8f53-2710efcd766c}" condsize="1" numsize="7" element2="{910d0353-b844-470f-8dcb-a27b78e0fe16}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{f52570dd-b18e-012e-919f-8d749298ae42}" terminalname1="PE" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.5" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -2549,17 +2611,6 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemmeohnebmk" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" condsize="1" numsize="7" element2="{910d0353-b844-470f-8dcb-a27b78e0fe16}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.5" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Leitungsschutzschalter B20A 3-polig" bicolor="false" element1="{0d27dde4-1668-4d11-ac3c-b25e3a7a0a47}" condsize="1" numsize="7" element2="{74fb8ac5-1e9f-49ac-81ac-6860012c716e}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{375e238f-46f3-4ef0-849d-671065de9946}" terminalname1="IN.5" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="-F4.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Energiezähler 3ph." x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="FI 4 Pol Typ A 25A 30mA" bicolor="false" element1="{56f7a090-e163-4bda-a1f4-b94be0887299}" condsize="1" numsize="7" element2="{73636a3c-7ff3-4c33-b83d-2b8ac91f5705}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{f59e8912-7b76-487b-b045-42c5ca2197d3}" terminalname1="" terminal2="{6ce99a63-094a-4eed-a207-754ee9696a3f}" terminalname2="N" element2_label="X4.2" element1_label="-F4.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-10"/>
-                <segment orientation="vertical" length="-130"/>
-                <segment orientation="horizontal" length="-130"/>
-                <segment orientation="vertical" length="70"/>
-                <segment orientation="vertical" length="10"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Leitungsschutzschalter B20A 3-polig" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="FI 4 Pol Typ A 25A 30mA" bicolor="false" element1="{56f7a090-e163-4bda-a1f4-b94be0887299}" condsize="1" numsize="7" element2="{0d27dde4-1668-4d11-ac3c-b25e3a7a0a47}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{5e369199-4b77-49cf-99a9-98c59f8cc4d6}" terminalname1="" terminal2="{f63ae886-88fe-422f-97e5-377eaff6fb15}" terminalname2="OUT.4" element2_label="-F4.2" element1_label="-F4.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -2577,23 +2628,7 @@ Kompressor</text>
             <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" element2_linked="" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{8716b2d6-76d4-4909-9be8-cb838d3cd4ad}" condsize="1" element2="{8c970739-e140-47fd-9a6a-65ea55ed17df}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.22" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{37552943-1558-489a-80e7-94275227a345}" condsize="1" numsize="7" element2="{4b11eaf1-da7c-457c-bcda-7a4b594fa57b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.29" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="WB_4.04" conductor_color="" type="multi" element2_name="Energiezähler 3ph." x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Lasttrenner 3-polig" bicolor="false" element1="{74f70d85-5d37-4a7b-bfa9-aef2e47ed13d}" condsize="1" numsize="7" element2="{73636a3c-7ff3-4c33-b83d-2b8ac91f5705}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{9931a52f-659f-4d12-bfc3-0064063773f8}" terminalname1="" terminal2="{a5a22122-75a8-4814-b3d2-5d3247066c46}" terminalname2="L1" element2_label="X4.2" element1_label="-Q4.1" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="WB_%f.%seqt_1" cable="">
-                <sequentialNumbers>
-                    <unit></unit>
-                    <unitFolio></unitFolio>
-                    <ten>04</ten>
-                    <tenFolio></tenFolio>
-                    <hundred></hundred>
-                    <hundredFolio></hundredFolio>
-                </sequentialNumbers>
-            </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Lasttrenner 3-polig" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{a47f6b6e-a616-4a30-b055-d8897ab3fb34}" condsize="1" numsize="7" element2="{74f70d85-5d37-4a7b-bfa9-aef2e47ed13d}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{8a46382b-122a-4a22-8b93-50dc0805ef19}" terminalname2="" element2_label="-Q4.1" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{3266b398-ee4f-4d8a-8317-2afd6cf54d23}" condsize="1" numsize="7" element2="{ca9333b4-e214-4c85-9d38-71fa462a022f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.30" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" element2_linked="" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{f812d541-3faa-4763-9fd8-85551bb76b2b}" condsize="1" element2="{f038683e-a632-4131-89d4-d905407b8acb}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.31" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -2602,21 +2637,19 @@ Kompressor</text>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{772b7079-3493-45a1-93d8-d92916b06c23}" condsize="1" element2="{679c4d08-86db-41d0-8d15-840e6fb8d4c4}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.7" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Energiezähler 3ph." x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Fehlerstromschutzschalter 2-polig Typ A" bicolor="false" element1="{ac53cd55-3ccd-4f06-9eca-e0b7ea22d71f}" condsize="1" numsize="7" element2="{73636a3c-7ff3-4c33-b83d-2b8ac91f5705}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{77317db1-405e-460d-b988-23fbdcc603b1}" terminalname1="" terminal2="{6ce99a63-094a-4eed-a207-754ee9696a3f}" terminalname2="N" element2_label="X4.2" element1_label="-F4.12" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-10"/>
-                <segment orientation="vertical" length="-130"/>
-                <segment orientation="horizontal" length="-310"/>
-                <segment orientation="vertical" length="70"/>
-                <segment orientation="vertical" length="10"/>
-                <sequentialNumbers/>
-            </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Fehlerstromschutzschalter 2-polig Typ A" bicolor="false" element1="{ac53cd55-3ccd-4f06-9eca-e0b7ea22d71f}" condsize="1" numsize="7" element2="{409cd6f8-26bf-49a2-a80d-bd9d662fc04f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{8e8c3f97-d8d4-450a-804b-467500ab08b4}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.14" element1_label="-F4.12" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Nächste Folie" bicolor="false" element1="{0958d0f6-3053-472f-a06e-ee4bf277483c}" condsize="1" numsize="7" element2="{baea981f-af57-4504-a968-4af6bd84311c}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname1="1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="4.19" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Nächste Folie" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{c9dc828a-fdb8-4054-bb7c-f422fb07f9c9}" condsize="1" numsize="7" element2="{a47f6b6e-a616-4a30-b055-d8897ab3fb34}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{975add6f-4ba5-44af-a4c0-e1f1c2024601}" terminalname2="1" element2_label="" element1_label="4.27" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{3985d122-3f08-4e29-b90c-083c902a08c6}" condsize="1" numsize="7" element2="{b302a43c-4301-4a71-9040-9c98d487ad4e}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{65e81e88-b24a-40b7-bd25-034b6e9a8232}" terminalname1="N.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.28" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{3985d122-3f08-4e29-b90c-083c902a08c6}" condsize="1" numsize="7" element2="{c9dc828a-fdb8-4054-bb7c-f422fb07f9c9}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{43ba7e78-26a4-4cb8-9c95-7fd02fa9daa2}" terminalname1="L3.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.27" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Energiezähler 3ph." bicolor="false" element1="{3985d122-3f08-4e29-b90c-083c902a08c6}" condsize="1" numsize="7" element2="{618d8b6a-7e4e-490f-ae5d-e50868e84e48}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{c5518603-6161-4a2b-be7d-9d45f8157319}" terminalname1="L2.1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="4.26" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
         </conductors>
@@ -8916,7 +8949,7 @@ Kompressor</text>
             </elementunitfolioseq>
         </elementautonumfoliosequentials>
         <elements>
-            <element type="embed://import/keuchengeraete/kuehlschrank.elmt" x="450" y="660" z="10" freezeLabel="false" prefix="" uuid="{1b59348e-724a-4e2c-853e-39fcaa555f3d}" orientation="0">
+            <element type="embed://import/keuchengeraete/kuehlschrank.elmt" x="400" y="580" z="10" freezeLabel="false" prefix="" uuid="{1b59348e-724a-4e2c-853e-39fcaa555f3d}" orientation="0">
                 <terminals>
                     <terminal x="10" y="-145" id="0" orientation="0"/>
                     <terminal x="20" y="-145" id="1" orientation="0"/>
@@ -8947,7 +8980,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/keuchengeraete/cookingplate.elmt" x="240" y="580" z="10" freezeLabel="false" prefix="" uuid="{98f0c17c-9572-4c02-bcd9-30186b995ffb}" orientation="0">
+            <element type="embed://import/keuchengeraete/cookingplate.elmt" x="240" y="500" z="10" freezeLabel="false" prefix="" uuid="{98f0c17c-9572-4c02-bcd9-30186b995ffb}" orientation="0">
                 <terminals>
                     <terminal x="-40" y="-63" id="3" orientation="0"/>
                     <terminal x="-20" y="-63" id="4" orientation="0"/>
@@ -8996,7 +9029,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel3g1.5npesteckdosen.elmt" x="590" y="390" z="10" freezeLabel="false" prefix="" uuid="{e330d283-211a-43ee-8f76-5e627414a2bb}" orientation="0">
+            <element type="embed://import/kabel/kabel3g1.5npesteckdosen.elmt" x="540" y="310" z="10" freezeLabel="false" prefix="" uuid="{e330d283-211a-43ee-8f76-5e627414a2bb}" orientation="0">
                 <sequentialNumbers>
                     <unit>2</unit>
                     <unitFolio></unitFolio>
@@ -9040,7 +9073,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel3g1.5npesteckdosen.elmt" x="390" y="390" z="10" freezeLabel="false" prefix="" uuid="{49ae6097-c97d-479b-a554-d32f895f7ee7}" orientation="0">
+            <element type="embed://import/kabel/kabel3g1.5npesteckdosen.elmt" x="340" y="310" z="10" freezeLabel="false" prefix="" uuid="{49ae6097-c97d-479b-a554-d32f895f7ee7}" orientation="0">
                 <sequentialNumbers>
                     <unit>1</unit>
                     <unitFolio></unitFolio>
@@ -9100,7 +9133,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="530" y="460" z="10" freezeLabel="false" prefix="X" uuid="{475f213b-cca3-4343-a3f2-0bab9982977f}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="480" y="380" z="10" freezeLabel="false" prefix="X" uuid="{475f213b-cca3-4343-a3f2-0bab9982977f}" orientation="0">
                 <sequentialNumbers>
                     <unit>3</unit>
                     <unitFolio></unitFolio>
@@ -9127,7 +9160,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel3g1.5npesteckdosen.elmt" x="850" y="390" z="10" freezeLabel="false" prefix="" uuid="{ee172125-45cd-4c93-84bf-35f5e4405e40}" orientation="0">
+            <element type="embed://import/kabel/kabel3g1.5npesteckdosen.elmt" x="800" y="310" z="10" freezeLabel="false" prefix="" uuid="{ee172125-45cd-4c93-84bf-35f5e4405e40}" orientation="0">
                 <sequentialNumbers>
                     <unit>3</unit>
                     <unitFolio></unitFolio>
@@ -9171,7 +9204,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="860" y="460" z="10" freezeLabel="false" prefix="X" uuid="{2363dd26-aea9-46d7-b995-fc7438d4fe92}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="810" y="380" z="10" freezeLabel="false" prefix="X" uuid="{2363dd26-aea9-46d7-b995-fc7438d4fe92}" orientation="0">
                 <sequentialNumbers>
                     <unit>8</unit>
                     <unitFolio></unitFolio>
@@ -9230,7 +9263,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="600" y="460" z="10" freezeLabel="false" prefix="X" uuid="{aadddd08-0ab4-4ef3-a923-3e62714b0510}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="550" y="380" z="10" freezeLabel="false" prefix="X" uuid="{aadddd08-0ab4-4ef3-a923-3e62714b0510}" orientation="0">
                 <sequentialNumbers>
                     <unit>4</unit>
                     <unitFolio></unitFolio>
@@ -9273,7 +9306,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel3g1.5npesteckdosen.elmt" x="520" y="390" z="10" freezeLabel="false" prefix="" uuid="{ec7d5e91-d83d-457c-8bf3-8679926290c0}" orientation="0">
+            <element type="embed://import/kabel/kabel3g1.5npesteckdosen.elmt" x="470" y="310" z="10" freezeLabel="false" prefix="" uuid="{ec7d5e91-d83d-457c-8bf3-8679926290c0}" orientation="0">
                 <sequentialNumbers>
                     <unit>1</unit>
                     <unitFolio></unitFolio>
@@ -9317,7 +9350,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel5g.elmt" x="110" y="390" z="10" freezeLabel="false" prefix="" uuid="{49c84473-1791-4758-b934-12021c0e22f9}" orientation="0">
+            <element type="embed://import/kabel/kabel5g.elmt" x="110" y="310" z="10" freezeLabel="false" prefix="" uuid="{49c84473-1791-4758-b934-12021c0e22f9}" orientation="0">
                 <sequentialNumbers>
                     <unit>1</unit>
                     <unitFolio></unitFolio>
@@ -9401,7 +9434,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="940" y="460" z="10" freezeLabel="false" prefix="X" uuid="{c223886d-23be-4972-bbcb-102bf48462f0}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="890" y="380" z="10" freezeLabel="false" prefix="X" uuid="{c223886d-23be-4972-bbcb-102bf48462f0}" orientation="0">
                 <sequentialNumbers>
                     <unit>9</unit>
                     <unitFolio></unitFolio>
@@ -9428,7 +9461,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="470" y="460" z="10" freezeLabel="false" prefix="X" uuid="{ed8049d9-508f-4054-bc0c-7048597ad1c1}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="420" y="380" z="10" freezeLabel="false" prefix="X" uuid="{ed8049d9-508f-4054-bc0c-7048597ad1c1}" orientation="0">
                 <sequentialNumbers>
                     <unit>2</unit>
                     <unitFolio></unitFolio>
@@ -9506,7 +9539,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="400" y="460" z="10" freezeLabel="false" prefix="X" uuid="{01066978-95a8-49fd-95e1-187f11e64212}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="350" y="380" z="10" freezeLabel="false" prefix="X" uuid="{01066978-95a8-49fd-95e1-187f11e64212}" orientation="0">
                 <sequentialNumbers>
                     <unit>1</unit>
                     <unitFolio></unitFolio>
@@ -9533,7 +9566,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="1010" y="510" z="10" freezeLabel="false" prefix="X" uuid="{25a8cb57-7628-4622-9ed2-5421e6fb45f5}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="960" y="430" z="10" freezeLabel="false" prefix="X" uuid="{25a8cb57-7628-4622-9ed2-5421e6fb45f5}" orientation="0">
                 <sequentialNumbers>
                     <unit>10</unit>
                     <unitFolio></unitFolio>
@@ -9592,7 +9625,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="650" y="510" z="10" freezeLabel="false" prefix="X" uuid="{4de9dc1a-cefe-4e6b-a176-9c26e60a79cf}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="600" y="430" z="10" freezeLabel="false" prefix="X" uuid="{4de9dc1a-cefe-4e6b-a176-9c26e60a79cf}" orientation="0">
                 <sequentialNumbers>
                     <unit>5</unit>
                     <unitFolio></unitFolio>
@@ -9635,7 +9668,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="730" y="460" z="10" freezeLabel="false" prefix="X" uuid="{e358906d-c60c-4bfc-a316-8dbe1a8ffd4b}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="680" y="380" z="10" freezeLabel="false" prefix="X" uuid="{e358906d-c60c-4bfc-a316-8dbe1a8ffd4b}" orientation="0">
                 <sequentialNumbers>
                     <unit>6</unit>
                     <unitFolio></unitFolio>
@@ -9662,7 +9695,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/keuchengeraete/geschirrspueler.elmt" x="840" y="660" z="10" freezeLabel="false" prefix="" uuid="{8f0625dd-1b5d-4437-bdd0-1ba51cfca111}" orientation="0">
+            <element type="embed://import/keuchengeraete/geschirrspueler.elmt" x="690" y="630" z="10" freezeLabel="false" prefix="" uuid="{8f0625dd-1b5d-4437-bdd0-1ba51cfca111}" orientation="0">
                 <terminals>
                     <terminal x="30" y="-141.72" id="48" orientation="0"/>
                     <terminal x="40" y="-141.72" id="49" orientation="0"/>
@@ -9687,7 +9720,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel5g.elmt" x="230" y="390" z="10" freezeLabel="false" prefix="" uuid="{a5aa181c-b297-4e82-9fdb-614139a248bd}" orientation="0">
+            <element type="embed://import/kabel/kabel5g.elmt" x="230" y="310" z="10" freezeLabel="false" prefix="" uuid="{a5aa181c-b297-4e82-9fdb-614139a248bd}" orientation="0">
                 <sequentialNumbers>
                     <unit>2</unit>
                     <unitFolio></unitFolio>
@@ -9736,7 +9769,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/keuchengeraete/backofen.elmt" x="90" y="650" z="10" freezeLabel="false" prefix="" uuid="{81447469-8fe0-4cd7-a6b0-e34d1bcc3227}" orientation="0">
+            <element type="embed://import/keuchengeraete/backofen.elmt" x="90" y="570" z="10" freezeLabel="false" prefix="" uuid="{81447469-8fe0-4cd7-a6b0-e34d1bcc3227}" orientation="0">
                 <terminals>
                     <terminal x="-10" y="-126" id="51" orientation="0"/>
                     <terminal x="10" y="-126" id="52" orientation="0"/>
@@ -9798,7 +9831,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel3g1.5npesteckdosen.elmt" x="930" y="390" z="10" freezeLabel="false" prefix="" uuid="{b36a159a-fa40-4e36-9571-8c5a2ed19c81}" orientation="0">
+            <element type="embed://import/kabel/kabel3g1.5npesteckdosen.elmt" x="880" y="310" z="10" freezeLabel="false" prefix="" uuid="{b36a159a-fa40-4e36-9571-8c5a2ed19c81}" orientation="0">
                 <sequentialNumbers>
                     <unit>4</unit>
                     <unitFolio></unitFolio>
@@ -9842,7 +9875,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel3g1.5npesteckdosen.elmt" x="720" y="390" z="10" freezeLabel="false" prefix="" uuid="{2f263b12-4c83-4d3a-9138-c06fbd010966}" orientation="0">
+            <element type="embed://import/kabel/kabel3g1.5npesteckdosen.elmt" x="670" y="310" z="10" freezeLabel="false" prefix="" uuid="{2f263b12-4c83-4d3a-9138-c06fbd010966}" orientation="0">
                 <sequentialNumbers>
                     <unit>1</unit>
                     <unitFolio></unitFolio>
@@ -9902,7 +9935,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="770" y="510" z="10" freezeLabel="false" prefix="X" uuid="{65007862-55cb-4684-b82c-864893f908f4}" orientation="0">
+            <element type="embed://import/10_electric/10_allpole/140_connectors_plugs/20_socket_outlets/pc_2p_t.elmt" x="720" y="430" z="10" freezeLabel="false" prefix="X" uuid="{65007862-55cb-4684-b82c-864893f908f4}" orientation="0">
                 <sequentialNumbers>
                     <unit>7</unit>
                     <unitFolio></unitFolio>
@@ -9933,16 +9966,15 @@ Kompressor</text>
         <conductors>
             <conductor num="" conductor_color="" type="multi" element2_name="Steckdose P+N+PE" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Geschirrspueler" bicolor="false" element1="{8f0625dd-1b5d-4437-bdd0-1ba51cfca111}" condsize="1" numsize="7" element2="{65007862-55cb-4684-b82c-864893f908f4}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{cba8bcd0-e43b-480d-ac71-179c6c88b1f4}" terminalname1="" terminal2="{15cce7a9-e59c-4a2f-bd59-4d989023aab8}" terminalname2="" element2_label="-X 10.7" element1_label="-E10.4" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <segment orientation="vertical" length="-14.86"/>
-                <segment orientation="vertical" length="-10"/>
-                <segment orientation="horizontal" length="-100"/>
+                <segment orientation="vertical" length="-60"/>
+                <segment orientation="horizontal" length="0"/>
                 <segment orientation="vertical" length="11"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Steckdose P+N+PE" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Geschirrspueler" bicolor="false" element1="{8f0625dd-1b5d-4437-bdd0-1ba51cfca111}" condsize="1" numsize="7" element2="{65007862-55cb-4684-b82c-864893f908f4}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{112cfb3d-42f3-494a-a46e-2e42e7d21840}" terminalname1="" terminal2="{df12aec6-55d7-4c48-a1e1-415b2f3c6dee}" terminalname2="" element2_label="-X 10.7" element1_label="-E10.4" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <segment orientation="vertical" length="-14.28"/>
-                <segment orientation="vertical" length="-20"/>
-                <segment orientation="horizontal" length="-100"/>
-                <segment orientation="vertical" length="10"/>
+                <segment orientation="vertical" length="-60"/>
+                <segment orientation="horizontal" length="0"/>
                 <segment orientation="vertical" length="11"/>
                 <sequentialNumbers/>
             </conductor>
@@ -9954,9 +9986,8 @@ Kompressor</text>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Steckdose P+N+PE" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Geschirrspueler" bicolor="false" element1="{8f0625dd-1b5d-4437-bdd0-1ba51cfca111}" condsize="1" numsize="7" element2="{65007862-55cb-4684-b82c-864893f908f4}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{9a903e5d-1b7e-4214-a90e-b863ac557c1c}" terminalname1="" terminal2="{2c5ecb2e-04e8-43c4-80b0-e4da6d121bfa}" terminalname2="" element2_label="-X 10.7" element1_label="-E10.4" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <segment orientation="vertical" length="-14.28"/>
-                <segment orientation="vertical" length="-30"/>
-                <segment orientation="horizontal" length="-100"/>
-                <segment orientation="vertical" length="20"/>
+                <segment orientation="vertical" length="-60"/>
+                <segment orientation="horizontal" length="0"/>
                 <segment orientation="vertical" length="11"/>
                 <sequentialNumbers/>
             </conductor>
@@ -10113,9 +10144,9 @@ Kompressor</text>
             <conductor num="" conductor_color="" type="multi" element2_name="n" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Vorherige Folie" bicolor="false" element1="{38a8e679-3b88-4054-af72-76ab80104131}" condsize="1" element2="{81447469-8fe0-4cd7-a6b0-e34d1bcc3227}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{d7fd0bec-9f05-4651-a50b-29d7ffabeb41}" terminalname1="1" terminal2="{f89a55ee-d8c1-46d2-9cac-71f4dcc81d78}" terminalname2="" element2_label="-E10.1" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <segment orientation="horizontal" length="10.3333"/>
                 <segment orientation="horizontal" length="-13.3333"/>
-                <segment orientation="vertical" length="225"/>
+                <segment orientation="vertical" length="185"/>
                 <segment orientation="horizontal" length="-1.42109e-14"/>
-                <segment orientation="vertical" length="55"/>
+                <segment orientation="vertical" length="15"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Steckdose P+N+PE" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Steckdose P+N+PE" bicolor="false" element1="{65007862-55cb-4684-b82c-864893f908f4}" condsize="1" numsize="7" element2="{e358906d-c60c-4bfc-a316-8dbe1a8ffd4b}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{2c5ecb2e-04e8-43c4-80b0-e4da6d121bfa}" terminalname1="" terminal2="{2c5ecb2e-04e8-43c4-80b0-e4da6d121bfa}" terminalname2="" element2_label="-X 10.6" element1_label="-X 10.7" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
