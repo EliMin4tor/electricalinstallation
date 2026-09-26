@@ -31575,7 +31575,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel2g.elmt" x="900" y="440" z="10" freezeLabel="false" prefix="" uuid="{76cf2ff0-6b52-4f0d-b5be-b5759bfedee7}" orientation="0">
+            <element type="embed://import/kabel/kabel2g.elmt" x="900" y="380" z="10" freezeLabel="false" prefix="" uuid="{76cf2ff0-6b52-4f0d-b5be-b5759bfedee7}" orientation="0">
                 <sequentialNumbers>
                     <unit>19</unit>
                     <unitFolio></unitFolio>
@@ -31780,7 +31780,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="910" y="640" z="10" freezeLabel="false" prefix="" uuid="{37e79779-638a-41ab-8d05-1db1982dde68}" orientation="0">
+            <element type="embed://import/spot.elmt" x="910" y="580" z="10" freezeLabel="false" prefix="" uuid="{37e79779-638a-41ab-8d05-1db1982dde68}" orientation="0">
                 <sequentialNumbers>
                     <unit>17</unit>
                     <unitFolio></unitFolio>
@@ -31832,7 +31832,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="910" y="480" z="10" freezeLabel="false" prefix="" uuid="{0b527bb6-01b0-4ee3-bb92-896d458d788e}" orientation="0">
+            <element type="embed://import/spot.elmt" x="910" y="420" z="10" freezeLabel="false" prefix="" uuid="{0b527bb6-01b0-4ee3-bb92-896d458d788e}" orientation="0">
                 <sequentialNumbers>
                     <unit>15</unit>
                     <unitFolio></unitFolio>
@@ -31875,7 +31875,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="910" y="400" z="10" freezeLabel="false" prefix="" uuid="{d4b6621d-69df-4868-b1c7-43b7dd2e75b9}" orientation="0">
+            <element type="embed://import/spot.elmt" x="910" y="350" z="10" freezeLabel="false" prefix="" uuid="{d4b6621d-69df-4868-b1c7-43b7dd2e75b9}" orientation="0">
                 <sequentialNumbers>
                     <unit>14</unit>
                     <unitFolio></unitFolio>
@@ -31956,7 +31956,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel2g.elmt" x="900" y="600" z="10" freezeLabel="false" prefix="" uuid="{5d8a8348-ff84-43b2-806b-941862a21e42}" orientation="0">
+            <element type="embed://import/kabel/kabel2g.elmt" x="900" y="540" z="10" freezeLabel="false" prefix="" uuid="{5d8a8348-ff84-43b2-806b-941862a21e42}" orientation="0">
                 <sequentialNumbers>
                     <unit>21</unit>
                     <unitFolio></unitFolio>
@@ -32914,7 +32914,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="910" y="560" z="10" freezeLabel="false" prefix="" uuid="{f58eadd1-f4bc-45cc-884f-8e9f1cb46d2e}" orientation="0">
+            <element type="embed://import/spot.elmt" x="910" y="500" z="10" freezeLabel="false" prefix="" uuid="{f58eadd1-f4bc-45cc-884f-8e9f1cb46d2e}" orientation="0">
                 <sequentialNumbers>
                     <unit>16</unit>
                     <unitFolio></unitFolio>
@@ -33527,7 +33527,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel2g.elmt" x="900" y="360" z="10" freezeLabel="false" prefix="" uuid="{171a5339-029e-49a3-b060-4e96151f65ec}" orientation="0">
+            <element type="embed://import/kabel/kabel2g.elmt" x="900" y="320" z="10" freezeLabel="false" prefix="" uuid="{171a5339-029e-49a3-b060-4e96151f65ec}" orientation="0">
                 <sequentialNumbers>
                     <unit>18</unit>
                     <unitFolio></unitFolio>
@@ -33932,7 +33932,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/kabel/kabel2g.elmt" x="900" y="520" z="10" freezeLabel="false" prefix="" uuid="{562ea372-bd76-47e4-8fde-7301e3647b96}" orientation="0">
+            <element type="embed://import/kabel/kabel2g.elmt" x="900" y="460" z="10" freezeLabel="false" prefix="" uuid="{562ea372-bd76-47e4-8fde-7301e3647b96}" orientation="0">
                 <sequentialNumbers>
                     <unit>20</unit>
                     <unitFolio></unitFolio>
@@ -33974,13 +33974,16 @@ Kompressor</text>
             </element>
         </elements>
         <conductors>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{ddd5d9db-830e-40af-929c-1dbb0b7bedc7}" condsize="1" numsize="7" element2="{ac63033a-efad-48c9-a79d-7ac7114fa1a4}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="27.6" element1_label="27.30" userx="620" usery="210" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{fa4e3b97-dbe7-4288-8bc7-d865f7c1c4e9}" condsize="1" numsize="7" element2="{df227f2f-ecae-48ee-9c4c-120493bddd9f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="27.2" element1_label="27.1" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{cc37e367-ef56-41e5-a570-9ffa286a706f}" condsize="1" numsize="7" element2="{d6845dcf-3905-4bf3-84a8-8dcd4502ed2c}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="27.40" element1_label="-P27.9" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Vorherige Folie" bicolor="false" element1="{20394f65-5f38-44b3-95e5-01b31b86d786}" condsize="1" element2="{fa4e3b97-dbe7-4288-8bc7-d865f7c1c4e9}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{d7fd0bec-9f05-4651-a50b-29d7ffabeb41}" terminalname1="1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="27.1" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{ddd5d9db-830e-40af-929c-1dbb0b7bedc7}" condsize="1" numsize="7" element2="{ac63033a-efad-48c9-a79d-7ac7114fa1a4}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="27.6" element1_label="27.30" userx="620" usery="210" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Wechselschalter" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{b3ae9793-e614-49fb-9075-f51a5e8c73ce}" condsize="1" numsize="7" element2="{2b7c4c52-c9c2-447a-9165-3605a9b7a372}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname1="" terminal2="{f149fc7c-a2ce-4407-afe4-02f03d29f571}" terminalname2="" element2_label="-S27.1" element1_label="27.5" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -34124,6 +34127,9 @@ Kompressor</text>
                 <segment orientation="vertical" length="-10"/>
                 <sequentialNumbers/>
             </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Spule" x="0" y="0" element2_linked="" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{ded6a9d7-60c1-4120-acdf-4c31dd8c4192}" condsize="1" element2="{71a68756-1dd3-4b1b-a870-9f299fa2d2fb}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{c5376fd7-bdf1-4c10-985a-0d7d5f52c8f9}" terminalname2="A2" element2_label="-Q27.4" element1_label="27.17" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{f3dd750d-4a05-476c-9c33-829c20b84d4e}" condsize="1" numsize="7" element2="{619a7b0f-7cb3-4a77-b6e8-e43a7b48859a}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="27.41" element1_label="-P27.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <segment orientation="vertical" length="-6"/>
                 <segment orientation="vertical" length="-80"/>
@@ -34162,9 +34168,6 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Relais Schliesser" x="0" y="0" element2_linked="-Q27.1" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{1cb0940f-c596-44b9-9d44-c82da4adcd9b}" condsize="1" element2="{6dc25724-e011-4417-a4b6-dfa0c3785630}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{b9683546-f0a2-4386-b114-ef1d46b2df3d}" terminalname2="" element2_label="" element1_label="27.28" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{fa4e3b97-dbe7-4288-8bc7-d865f7c1c4e9}" condsize="1" numsize="7" element2="{df227f2f-ecae-48ee-9c4c-120493bddd9f}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="27.2" element1_label="27.1" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spule" bicolor="false" element1="{89372414-069a-4c3d-b6aa-ba8e83de8933}" condsize="1" element2="{e4b9921f-9a39-4be2-84f7-37ef97c12edf}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{8d0fa333-2d98-4a75-8a4e-21c81cce7ec3}" terminalname1="A1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="27.27" element1_label="-Q27.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -34283,9 +34286,6 @@ Kompressor</text>
                 <segment orientation="horizontal" length="-20"/>
                 <segment orientation="vertical" length="-20"/>
                 <segment orientation="horizontal" length="0"/>
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Spule" x="0" y="0" element2_linked="" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{ded6a9d7-60c1-4120-acdf-4c31dd8c4192}" condsize="1" element2="{71a68756-1dd3-4b1b-a870-9f299fa2d2fb}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{c5376fd7-bdf1-4c10-985a-0d7d5f52c8f9}" terminalname2="A2" element2_label="-Q27.4" element1_label="27.17" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="_" conductor_color="" type="multi" element2_name="Wechselschalter" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Wechselschalter" bicolor="false" element1="{9ec1aacf-7645-4472-b24b-34519a07766e}" condsize="1" numsize="7" element2="{60fc9d72-c3b7-4089-a89a-de096928dcde}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{69c4792e-5b2e-4c9e-8d01-eff45bc26593}" terminalname1="" terminal2="{4c5fcd5c-fb7a-4e66-a115-017554a9bead}" terminalname2="" element2_label="-S27.5" element1_label="-S27.6" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -34417,8 +34417,8 @@ Kompressor</text>
             </conductor>
         </conductors>
         <inputs>
-            <input x="630" y="30" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Liberation Sans'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Wohnzimmer&lt;/p>&lt;/body>&lt;/html>"/>
             <input x="90" y="30" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Liberation Sans'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Küche&lt;/p>&lt;/body>&lt;/html>"/>
+            <input x="630" y="30" rotation="0" font="Liberation Sans,9,-1,0,50,0,0,0,0,0,Regular" text="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;>&#xa;&lt;html>&lt;head>&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; />&lt;style type=&quot;text/css&quot;>&#xa;p, li { white-space: pre-wrap; }&#xa;&lt;/style>&lt;/head>&lt;body style=&quot; font-family:'Liberation Sans'; font-size:9pt; font-weight:400; font-style:normal;&quot;>&#xa;&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;>Wohnzimmer&lt;/p>&lt;/body>&lt;/html>"/>
         </inputs>
     </diagram>
     <diagram colsize="60" indexrev="01" displaycols="true" plant="OG" locmach="WC Flur Mehrzweckraum Büro" title="Kleinspannung" rows="8" rowsize="80" height="660" filename="" order="28" date="null" author="Entrich" version="0.100.0" freezeNewConductor="false" cols="17" displayAt="bottom" auto_page_num="Neue auto-nummerierte Folie anlegen" folio="%id/%total" displayrows="true" freezeNewElement="false">
@@ -34719,7 +34719,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="700" y="370" z="10" freezeLabel="false" prefix="" uuid="{92ee3a3d-aba3-4496-a878-e00216b7611a}" orientation="0">
+            <element type="embed://import/spot.elmt" x="700" y="530" z="10" freezeLabel="false" prefix="" uuid="{92ee3a3d-aba3-4496-a878-e00216b7611a}" orientation="0">
                 <sequentialNumbers>
                     <unit>14</unit>
                     <unitFolio></unitFolio>
@@ -35429,7 +35429,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="700" y="490" z="10" freezeLabel="false" prefix="" uuid="{c3a98780-2f1f-4308-a1b8-b801ea178c10}" orientation="0">
+            <element type="embed://import/spot.elmt" x="700" y="650" z="10" freezeLabel="false" prefix="" uuid="{c3a98780-2f1f-4308-a1b8-b801ea178c10}" orientation="0">
                 <sequentialNumbers>
                     <unit>17</unit>
                     <unitFolio></unitFolio>
@@ -36149,7 +36149,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="700" y="530" z="10" freezeLabel="false" prefix="" uuid="{9f9d5846-f945-4e78-95f8-a248c3ea99de}" orientation="0">
+            <element type="embed://import/spot.elmt" x="700" y="330" z="10" freezeLabel="false" prefix="" uuid="{9f9d5846-f945-4e78-95f8-a248c3ea99de}" orientation="0">
                 <sequentialNumbers>
                     <unit>9</unit>
                     <unitFolio></unitFolio>
@@ -36841,7 +36841,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="700" y="410" z="10" freezeLabel="false" prefix="" uuid="{54e27c32-eb5a-4cef-b5d1-b5e109f113c6}" orientation="0">
+            <element type="embed://import/spot.elmt" x="700" y="570" z="10" freezeLabel="false" prefix="" uuid="{54e27c32-eb5a-4cef-b5d1-b5e109f113c6}" orientation="0">
                 <sequentialNumbers>
                     <unit>15</unit>
                     <unitFolio></unitFolio>
@@ -36922,7 +36922,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="700" y="570" z="10" freezeLabel="false" prefix="" uuid="{dd0b405c-5f3f-42e2-86a9-2448f8b76d01}" orientation="0">
+            <element type="embed://import/spot.elmt" x="700" y="370" z="10" freezeLabel="false" prefix="" uuid="{dd0b405c-5f3f-42e2-86a9-2448f8b76d01}" orientation="0">
                 <sequentialNumbers>
                     <unit>10</unit>
                     <unitFolio></unitFolio>
@@ -37474,7 +37474,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="700" y="320" z="10" freezeLabel="false" prefix="" uuid="{3b1f88e4-fca9-4ec1-b561-bb6ccf523625}" orientation="0">
+            <element type="embed://import/spot.elmt" x="700" y="490" z="10" freezeLabel="false" prefix="" uuid="{3b1f88e4-fca9-4ec1-b561-bb6ccf523625}" orientation="0">
                 <sequentialNumbers>
                     <unit>13</unit>
                     <unitFolio></unitFolio>
@@ -37540,7 +37540,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="700" y="650" z="10" freezeLabel="false" prefix="" uuid="{0949fb62-80d6-4731-b159-97d6dfc13b0f}" orientation="0">
+            <element type="embed://import/spot.elmt" x="700" y="450" z="10" freezeLabel="false" prefix="" uuid="{0949fb62-80d6-4731-b159-97d6dfc13b0f}" orientation="0">
                 <sequentialNumbers>
                     <unit>12</unit>
                     <unitFolio></unitFolio>
@@ -37781,7 +37781,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="700" y="450" z="10" freezeLabel="false" prefix="" uuid="{16dfaeb3-073f-4771-8bab-0b2400f0036b}" orientation="0">
+            <element type="embed://import/spot.elmt" x="700" y="610" z="10" freezeLabel="false" prefix="" uuid="{16dfaeb3-073f-4771-8bab-0b2400f0036b}" orientation="0">
                 <sequentialNumbers>
                     <unit>16</unit>
                     <unitFolio></unitFolio>
@@ -37833,7 +37833,7 @@ Kompressor</text>
                 </dynamic_texts>
                 <texts_groups/>
             </element>
-            <element type="embed://import/spot.elmt" x="700" y="610" z="10" freezeLabel="false" prefix="" uuid="{4c091646-35eb-4e23-947d-fed700199e2b}" orientation="0">
+            <element type="embed://import/spot.elmt" x="700" y="410" z="10" freezeLabel="false" prefix="" uuid="{4c091646-35eb-4e23-947d-fed700199e2b}" orientation="0">
                 <sequentialNumbers>
                     <unit>11</unit>
                     <unitFolio></unitFolio>
@@ -37919,18 +37919,21 @@ Kompressor</text>
             </element>
         </elements>
         <conductors>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{3b1f88e4-fca9-4ec1-b561-bb6ccf523625}" condsize="1" numsize="7" element2="{d7969b5c-9e29-4769-9d59-70adf937dde5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.6" element1_label="-P28.13" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-6"/>
-                <segment orientation="horizontal" length="0"/>
-                <segment orientation="horizontal" length="0"/>
-                <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-10"/>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{9cea785f-868b-4600-8957-f6958650b4f8}" condsize="1" numsize="7" element2="{ae44605a-8334-4eaf-b453-14e1476b94cc}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.8" element1_label="-P28.19" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{5d822f20-dd90-4473-89cc-a6200011d83c}" condsize="1" numsize="7" element2="{08f4be95-2819-4608-a09c-b1d733c27fa9}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.57" element1_label="28.7" userx="930" usery="260" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{9cea785f-868b-4600-8957-f6958650b4f8}" condsize="1" numsize="7" element2="{ae44605a-8334-4eaf-b453-14e1476b94cc}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.8" element1_label="-P28.19" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{60b56d9d-f2ea-40dd-914d-1f1a77af1e65}" condsize="1" numsize="7" element2="{d2f67f1d-d483-4d5b-becc-cc320912caef}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="28.58" element1_label="28.60" userx="920" usery="200" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{3b1f88e4-fca9-4ec1-b561-bb6ccf523625}" condsize="1" numsize="7" element2="{d7969b5c-9e29-4769-9d59-70adf937dde5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.6" element1_label="-P28.13" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <segment orientation="vertical" length="-91"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="vertical" length="-95"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{82005947-625b-4945-9ee8-996872e3ea93}" condsize="1" numsize="7" element2="{5d822f20-dd90-4473-89cc-a6200011d83c}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.7" element1_label="-P28.18" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -37961,9 +37964,6 @@ Kompressor</text>
                 <segment orientation="horizontal" length="0"/>
                 <segment orientation="vertical" length="-53.5"/>
                 <segment orientation="horizontal" length="0"/>
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{60b56d9d-f2ea-40dd-914d-1f1a77af1e65}" condsize="1" numsize="7" element2="{d2f67f1d-d483-4d5b-becc-cc320912caef}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="28.58" element1_label="28.60" userx="920" usery="200" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{3ac3a7ce-2073-4355-a1a8-504c3eb1d18c}" condsize="1" numsize="7" element2="{232a0b69-db07-4a9d-b3a6-051d303b29b7}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.2" element1_label="-P28.6" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38000,19 +38000,19 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{4c091646-35eb-4e23-947d-fed700199e2b}" condsize="1" numsize="7" element2="{d7969b5c-9e29-4769-9d59-70adf937dde5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.6" element1_label="-P28.11" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-33.5"/>
-                <segment orientation="vertical" length="-167.5"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-67.5"/>
-                <segment orientation="vertical" length="-37.5"/>
+                <segment orientation="vertical" length="-103"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="vertical" length="-3"/>
+                <segment orientation="horizontal" length="0"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{16dfaeb3-073f-4771-8bab-0b2400f0036b}" condsize="1" numsize="7" element2="{d7969b5c-9e29-4769-9d59-70adf937dde5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.6" element1_label="-P28.16" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-6"/>
-                <segment orientation="vertical" length="-70"/>
+                <segment orientation="vertical" length="-46"/>
+                <segment orientation="vertical" length="-110"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-60"/>
-                <segment orientation="vertical" length="-10"/>
+                <segment orientation="vertical" length="-100"/>
+                <segment orientation="vertical" length="-50"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{e0b21613-cff5-4cba-9698-58702e83b269}" condsize="1" numsize="7" element2="{39dcb67a-48c0-49ab-8ec2-cf5841245aa8}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.47" element1_label="28.1" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38037,11 +38037,11 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{0949fb62-80d6-4731-b159-97d6dfc13b0f}" condsize="1" numsize="7" element2="{d7969b5c-9e29-4769-9d59-70adf937dde5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.6" element1_label="-P28.12" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-33.5"/>
-                <segment orientation="vertical" length="-207.5"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-67.5"/>
-                <segment orientation="vertical" length="-37.5"/>
+                <segment orientation="vertical" length="-143"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="vertical" length="-3"/>
+                <segment orientation="horizontal" length="0"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="RIF-0-RPT-24DC/ 1 - Relaismodul" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{122585b0-0c61-4da1-9d75-f8e7107dbde0}" condsize="1" numsize="7" element2="{8d6344ef-a373-4798-8928-497065cb099e}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{8ccd486c-7ed4-468a-bcc5-4a7f8df140ab}" terminalname2="" element2_label="-Q28.1" element1_label="28.35" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38077,15 +38077,18 @@ Kompressor</text>
                 <segment orientation="horizontal" length="0"/>
                 <sequentialNumbers/>
             </conductor>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{81cee96e-5e4d-4432-9aee-e8d58199f087}" condsize="1" numsize="7" element2="{36acd1a8-4333-4e0f-b293-27b047aea395}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.3" element1_label="-P28.7" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <sequentialNumbers/>
+            </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{afe5fb6d-ab80-43c8-8b13-a470fad4cef6}" condsize="1" numsize="7" element2="{5d822f20-dd90-4473-89cc-a6200011d83c}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.7" element1_label="-P28.25" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{c3a98780-2f1f-4308-a1b8-b801ea178c10}" condsize="1" numsize="7" element2="{d7969b5c-9e29-4769-9d59-70adf937dde5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.6" element1_label="-P28.17" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-6"/>
-                <segment orientation="vertical" length="-90"/>
+                <segment orientation="vertical" length="-46"/>
+                <segment orientation="vertical" length="-130"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-80"/>
-                <segment orientation="vertical" length="-10"/>
+                <segment orientation="vertical" length="-120"/>
+                <segment orientation="vertical" length="-50"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{fa01b7cf-bcd9-4de1-9d83-cf41cc4afa54}" condsize="1" numsize="7" element2="{e0b21613-cff5-4cba-9698-58702e83b269}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.1" element1_label="-P28.5" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38128,19 +38131,19 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{dd0b405c-5f3f-42e2-86a9-2448f8b76d01}" condsize="1" numsize="7" element2="{d7969b5c-9e29-4769-9d59-70adf937dde5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.6" element1_label="-P28.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-33.5"/>
-                <segment orientation="vertical" length="-127.5"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-67.5"/>
-                <segment orientation="vertical" length="-37.5"/>
+                <segment orientation="vertical" length="-63"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="vertical" length="-3"/>
+                <segment orientation="horizontal" length="0"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{9f9d5846-f945-4e78-95f8-a248c3ea99de}" condsize="1" numsize="7" element2="{d7969b5c-9e29-4769-9d59-70adf937dde5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.6" element1_label="-P28.9" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-33.5"/>
-                <segment orientation="vertical" length="-87.5"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-67.5"/>
-                <segment orientation="vertical" length="-37.5"/>
+                <segment orientation="vertical" length="-23"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="vertical" length="-3"/>
+                <segment orientation="horizontal" length="0"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{c166240e-8543-4877-9e35-3f2843088409}" condsize="1" numsize="7" element2="{bd6a9c53-0edd-486d-ac27-c854d4515f72}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="28.48" element1_label="28.46" userx="190" usery="200" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38150,11 +38153,11 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{9f9d5846-f945-4e78-95f8-a248c3ea99de}" condsize="1" numsize="7" element2="{89aee61f-d49f-4edb-ad1a-aab11da2c896}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.5" element1_label="-P28.9" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-33.5"/>
-                <segment orientation="vertical" length="-97.5"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-57.5"/>
-                <segment orientation="vertical" length="-37.5"/>
+                <segment orientation="vertical" length="-26"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="horizontal" length="0"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{81cee96e-5e4d-4432-9aee-e8d58199f087}" condsize="1" numsize="7" element2="{c9d10124-a3e8-4fa6-b885-abb8e47e6f3e}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.4" element1_label="-P28.7" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38164,11 +38167,11 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{92ee3a3d-aba3-4496-a878-e00216b7611a}" condsize="1" numsize="7" element2="{89aee61f-d49f-4edb-ad1a-aab11da2c896}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.5" element1_label="-P28.14" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-6"/>
-                <segment orientation="vertical" length="-30"/>
+                <segment orientation="vertical" length="-46"/>
+                <segment orientation="vertical" length="-70"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-20"/>
-                <segment orientation="vertical" length="-10"/>
+                <segment orientation="vertical" length="-60"/>
+                <segment orientation="vertical" length="-50"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{30457913-29c7-4284-bc85-1837b3929cf0}" condsize="1" numsize="7" element2="{e0b21613-cff5-4cba-9698-58702e83b269}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.1" element1_label="-P28.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38213,11 +38216,11 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{54e27c32-eb5a-4cef-b5d1-b5e109f113c6}" condsize="1" numsize="7" element2="{89aee61f-d49f-4edb-ad1a-aab11da2c896}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.5" element1_label="-P28.15" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-6"/>
-                <segment orientation="vertical" length="-50"/>
+                <segment orientation="vertical" length="-46"/>
+                <segment orientation="vertical" length="-90"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-40"/>
-                <segment orientation="vertical" length="-10"/>
+                <segment orientation="vertical" length="-80"/>
+                <segment orientation="vertical" length="-50"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{fa01b7cf-bcd9-4de1-9d83-cf41cc4afa54}" condsize="1" numsize="7" element2="{232a0b69-db07-4a9d-b3a6-051d303b29b7}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.2" element1_label="-P28.5" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38229,11 +38232,11 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{54e27c32-eb5a-4cef-b5d1-b5e109f113c6}" condsize="1" numsize="7" element2="{d7969b5c-9e29-4769-9d59-70adf937dde5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.6" element1_label="-P28.15" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-6"/>
-                <segment orientation="vertical" length="-50"/>
+                <segment orientation="vertical" length="-46"/>
+                <segment orientation="vertical" length="-90"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-40"/>
-                <segment orientation="vertical" length="-10"/>
+                <segment orientation="vertical" length="-80"/>
+                <segment orientation="vertical" length="-50"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Lichtschalter" bicolor="false" element1="{a745d0ca-e7fc-46c7-b579-3c2e5eff4fea}" condsize="1" numsize="7" element2="{50e8b7ee-62a7-450a-8257-8fd3fe29a735}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{c2c79904-7a09-4a9f-8ac8-5b557ca5576c}" terminalname1="" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.43" element1_label="-S28.4" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38246,9 +38249,6 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{72ed179f-df26-47e3-90c4-894aa749f0f2}" condsize="1" numsize="7" element2="{a47116c3-a203-435e-9a8f-009bb9f1036d}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="28.54" element1_label="28.55" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <sequentialNumbers/>
-            </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{81cee96e-5e4d-4432-9aee-e8d58199f087}" condsize="1" numsize="7" element2="{36acd1a8-4333-4e0f-b293-27b047aea395}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.3" element1_label="-P28.7" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" element1_linked="" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Vorherige Folie" bicolor="false" element1="{bb53bb0d-4a58-4d4e-81b0-7423fe327106}" condsize="1" element2="{d4ab626c-c0b7-49f2-a2fb-8f7995f4a71a}" numsize="7" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{d7fd0bec-9f05-4651-a50b-29d7ffabeb41}" terminalname1="1" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="28.36" element1_label="" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38289,11 +38289,11 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{c3a98780-2f1f-4308-a1b8-b801ea178c10}" condsize="1" numsize="7" element2="{89aee61f-d49f-4edb-ad1a-aab11da2c896}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.5" element1_label="-P28.17" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-6"/>
-                <segment orientation="vertical" length="-90"/>
+                <segment orientation="vertical" length="-46"/>
+                <segment orientation="vertical" length="-130"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-80"/>
-                <segment orientation="vertical" length="-10"/>
+                <segment orientation="vertical" length="-120"/>
+                <segment orientation="vertical" length="-50"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{36acd1a8-4333-4e0f-b293-27b047aea395}" condsize="1" numsize="7" element2="{035b7ad1-d225-4247-b4a5-955562165d92}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.49" element1_label="28.3" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38312,30 +38312,30 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{4c091646-35eb-4e23-947d-fed700199e2b}" condsize="1" numsize="7" element2="{89aee61f-d49f-4edb-ad1a-aab11da2c896}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.5" element1_label="-P28.11" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-33.5"/>
-                <segment orientation="vertical" length="-177.5"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-57.5"/>
-                <segment orientation="vertical" length="-37.5"/>
+                <segment orientation="vertical" length="-106"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="horizontal" length="0"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{3b1f88e4-fca9-4ec1-b561-bb6ccf523625}" condsize="1" numsize="7" element2="{89aee61f-d49f-4edb-ad1a-aab11da2c896}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.5" element1_label="-P28.13" userx="690" usery="310" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-6"/>
+                <segment orientation="vertical" length="-91"/>
                 <segment orientation="horizontal" length="0"/>
                 <segment orientation="horizontal" length="0"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-10"/>
+                <segment orientation="vertical" length="-95"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{25c39aa4-d8a1-4329-8110-3dc54737e58c}" condsize="1" numsize="7" element2="{a47116c3-a203-435e-9a8f-009bb9f1036d}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="28.54" element1_label="28.56" userx="680" usery="200" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{0949fb62-80d6-4731-b159-97d6dfc13b0f}" condsize="1" numsize="7" element2="{89aee61f-d49f-4edb-ad1a-aab11da2c896}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.5" element1_label="-P28.12" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-33.5"/>
-                <segment orientation="vertical" length="-217.5"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-57.5"/>
-                <segment orientation="vertical" length="-37.5"/>
+                <segment orientation="vertical" length="-146"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="horizontal" length="0"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Lichtschalter" bicolor="false" element1="{a745d0ca-e7fc-46c7-b579-3c2e5eff4fea}" condsize="1" numsize="7" element2="{ea3568e4-406b-43f4-be0a-9204b5bd6cb5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{b001284b-08c0-463e-b210-a8288e327b7f}" terminalname1="" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.44" element1_label="-S28.4" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38372,20 +38372,20 @@ Kompressor</text>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{407d208d-b3f0-4917-a2e0-1c2b97823304}" condsize="1" numsize="7" element2="{ea3568e4-406b-43f4-be0a-9204b5bd6cb5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname2="" element2_label="28.44" element1_label="28.42" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
                 <sequentialNumbers/>
             </conductor>
-            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{16dfaeb3-073f-4771-8bab-0b2400f0036b}" condsize="1" numsize="7" element2="{89aee61f-d49f-4edb-ad1a-aab11da2c896}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.5" element1_label="-P28.16" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-6"/>
-                <segment orientation="vertical" length="-70"/>
+            <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{16dfaeb3-073f-4771-8bab-0b2400f0036b}" condsize="1" numsize="7" element2="{89aee61f-d49f-4edb-ad1a-aab11da2c896}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.5" element1_label="-P28.16" userx="690" usery="440" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
+                <segment orientation="vertical" length="-46"/>
+                <segment orientation="vertical" length="-110"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-60"/>
-                <segment orientation="vertical" length="-10"/>
+                <segment orientation="vertical" length="-100"/>
+                <segment orientation="vertical" length="-50"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{dd0b405c-5f3f-42e2-86a9-2448f8b76d01}" condsize="1" numsize="7" element2="{89aee61f-d49f-4edb-ad1a-aab11da2c896}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{e8f2916b-c880-40ab-99eb-0b6842bd3a4c}" terminalname1="A1" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.5" element1_label="-P28.10" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-33.5"/>
-                <segment orientation="vertical" length="-137.5"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-57.5"/>
-                <segment orientation="vertical" length="-37.5"/>
+                <segment orientation="vertical" length="-66"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="horizontal" length="0"/>
+                <segment orientation="horizontal" length="0"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{30457913-29c7-4284-bc85-1837b3929cf0}" condsize="1" numsize="7" element2="{232a0b69-db07-4a9d-b3a6-051d303b29b7}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.2" element1_label="-P28.2" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
@@ -38415,11 +38415,11 @@ Kompressor</text>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Spot" bicolor="false" element1="{92ee3a3d-aba3-4496-a878-e00216b7611a}" condsize="1" numsize="7" element2="{d7969b5c-9e29-4769-9d59-70adf937dde5}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{144f0e22-3faf-4100-81eb-bc67fe9eaebe}" terminalname1="A2" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.6" element1_label="-P28.14" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
-                <segment orientation="vertical" length="-6"/>
-                <segment orientation="vertical" length="-30"/>
+                <segment orientation="vertical" length="-46"/>
+                <segment orientation="vertical" length="-70"/>
                 <segment orientation="horizontal" length="0"/>
-                <segment orientation="vertical" length="-20"/>
-                <segment orientation="vertical" length="-10"/>
+                <segment orientation="vertical" length="-60"/>
+                <segment orientation="vertical" length="-50"/>
                 <sequentialNumbers/>
             </conductor>
             <conductor num="" conductor_color="" type="multi" element2_name="Klemme" x="0" y="0" displaytext="1" vertirotatetext="270" onetextperfolio="0" color2="#000000" horizrotatetext="0" element1_name="Klemme" bicolor="false" element1="{c9d10124-a3e8-4fa6-b885-abb8e47e6f3e}" condsize="1" numsize="7" element2="{498ac7e9-5d56-4a50-a9d9-a0fb13af9ea4}" tension_protocol="" dash-size="2" bus="" freezeLabel="false" conductor_section="" vertical-alignment="AlignRight" terminal1="{396041da-b0d7-480a-8c0b-5bf2b1cca6f5}" terminalname1="" terminal2="{ce25d169-cbfd-4df9-8f1a-b808b4167e9d}" terminalname2="" element2_label="28.50" element1_label="28.4" function="" horizontal-alignment="AlignBottom" text_color="#000000" formula="" cable="">
