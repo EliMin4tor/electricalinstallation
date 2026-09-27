@@ -1,0 +1,305 @@
+Betriebsmittelkennzeichen (BMK);Ort (+);Anlage (=);Artikelnummer;Bestellnummer;Menge;Einheit;Artikelbeschreibung
+-W10.1;Küche;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W10.2;Küche;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W10.3;Küche;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W10.4;Küche;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W10.5;Küche;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W11.1;Bad;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W11.2;Bad;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W11.3;Bad;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W12.1;Wohnzimmer;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W12.2;Wohnzimmer;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W12.3;Wohnzimmer;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W12.4;Wohnzimmer;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W12.5;Wohnzimmer;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W12.6;Terrasse;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W12.7;Terrasse;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W12.8;Schlafzimmer;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W12.9;Schlafzimmer;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W13.2;Flur Eingang;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W13.3;Flur Eingang;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W13.4;Flur Eingang;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W14.1;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.10;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.11;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.12;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.13;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.14;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.15;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.16;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.17;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.18;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.19;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.2;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.20;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.21;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.22;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.23;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.24;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.25;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.26;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.27;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.28;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.29;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.3;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.30;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.31;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.32;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.33;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.34;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.35;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.36;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.37;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.38;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.4;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.5;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.6;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.7;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.8;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W14.9;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.1;Verteiler-Flur;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.10;Verteiler-FlurEingang;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.11;Verteiler-FlurEingang;EG;4044774543505;1026843 - 62;;m;Steuerleitung 2 x 1.50 mm²
+-W15.12;FlurEingang;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.13;FlurEingang;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.14;FlurEingang;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.15;Verteiler - Bad;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.16;Verteiler - Bad;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.17;Bad;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.18;Bad;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.19;Bad;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.2;Verteiler-Flur;EG;4044774543505;1026843 - 62;;m;Steuerleitung 2 x 1.50 mm²
+-W15.20;Bad;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.21;Bad;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.22;Bad;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.23;Verteiler-WC;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.3;Flur;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.4;Flur;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.5;Flur;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.6;Flur;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.7;Flur;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W15.8;Verteiler-WC;EG;4044774543505;1026843 - 62;;m;Steuerleitung 2 x 1.50 mm²
+-W15.9;WC;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W16.1;Verteiler-Küche;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W16.2;Verteiler-Wohnzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W16.3;Verteiler-Schlafzimmer;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W16.4;Verteiler-WC/Flur;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W16.5;Verteiler-FlurEingang;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W16.6;Verteiler-Bad;EG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W19.1;Küche;OG;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W19.1;Verteiler;OG;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W19.2;Küche;OG;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W19.2;Verteiler;OG;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W2.2;;;;;;;
+-W20.1;Küche;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.1;Verteiler;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.10;Schaltschrank;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.2;Küche Esstisch;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.2;Verteiler;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.3;Küche Esstisch;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.3;Verteiler;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.4;Küche;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.4;Verteiler;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.5;Verteiler;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.5;Wohnzimmer;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.6;Verteiler;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.6;Wohnzimmer;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.7;Mehrzweckraum;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.7;Verteiler;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.8;Verteiler;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W20.9;Verteiler;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.1;Büro;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.1;Büro;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.2;Flur;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.3;Balkon;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.3;Flur;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.3;Flur;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.4;Flur;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.4;Flur;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.5;Flur;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.5;WC;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.6;Flur;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.6;WC;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.7;Treppenhaus;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W21.7;Verteiler;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W23.1;Küche;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W23.2;Küche;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W23.4;Küche;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W23.5;Küche;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W23.6;Küche;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W24.1;Küche Esstisch;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W24.2;Balkon;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W24.3;Balkon;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W24.4;Balkon;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W25.1;Wohnzimmer;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W25.2;Wohnzimmer;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W25.3;Büro;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W25.4;Büro;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W26.1;Mehrzweckraum;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W26.11;Hoflicht;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W26.2;Mehrzweckraum;OG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W27.1;Verteiler-Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.10;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.11;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.12;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.13;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.14;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.15;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.16;Verteiler-Küche;OG;4044774543505;1026843 - 62;;m;Steuerleitung 2 x 1.50 mm²
+-W27.17;Verteiler-Wohnzimmer;OG;4044774543505;1026843 - 62;;m;Steuerleitung 2 x 1.50 mm²
+-W27.18;Wohnzimmer;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.19;Wohnzimmer;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.2;Verteiler-Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.20;Wohnzimmer;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.21;Wohnzimmer;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.22;Verteiler-Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.23;Verteiler-Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.24;Verteiler-Wohnzimmer;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.25;Verteiler-Wohnzimmer;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.27;Verteiler-Wohnzimmer;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.28;Verteiler-Wohnzimmer;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.3;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.4;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.5;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.6;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.7;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.8;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W27.9;Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.1;Verteiler-Mehrzweckraum;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.10;Mehrzweckraum;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.11;Mehrzweckraum;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.12;Mehrzweckraum;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.13;Mehrzweckraum;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.14;Mehrzweckraum;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.15;WC;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.16;WC;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.17;Flur;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.18;Flur;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.19;Flur;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.2;Verteiler-WC;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.20;Flur;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.21;Flur;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.22;Flur;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.23;Flur;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.24;Flur;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.25;Flur;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.26;Büro;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.27;Büro;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.28;Büro;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.29;Büro;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.3;Verteiler-Flur;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.30;Büro;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.31;Büro;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.32;Büro;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.33;Büro;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.34;Verteiler - Flur;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.35;Verteiler - Treppenhaus;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.4;Verteiler-Büro;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W28.5;Verteiler-Mehrzweckraum;OG;4044774543505;1026843 - 62;;m;Steuerleitung 2 x 1.50 mm²
+-W28.6;Verteiler-WC;OG;4044774543505;1026843 - 62;;m;Steuerleitung 2 x 1.50 mm²
+-W28.7;Verteiler-Flur;OG;4044774543505;1026843 - 62;;m;Steuerleitung 2 x 1.50 mm²
+-W28.8;Verteiler-Büro;OG;4044774543505;1026843 - 62;;m;Steuerleitung 2 x 1.50 mm²
+-W28.9;Mehrzweckraum;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W29.1;Verteiler-Küche;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W29.2;Verteiler-Wohnzimmer;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W29.3;Verteiler-Mehrzweckraum;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W29.4;Verteiler - Flur;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W29.5;Verteiler-Büro;OG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W32.1;Hauswirtschaftsraum;DG;4044776488064;1025834 - 62;;m;LAPP 16000063/50 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W32.1;Verteiler;DG;4044776488064;1025834 - 62;;m;LAPP 16000063/50 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W32.2;Hauswirtschaftsraum;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.2;Verteiler;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.3;Schlafzimmer;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.3;Verteiler;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.4;Bad;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.4;Verteiler;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.5;Bad;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.5;Verteiler;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.6;Kind 1;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.6;Verteiler;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.7;Kind 2;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.7;Verteiler;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.8;Treppenhaus;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W32.8;Verteiler;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W34.1;Hauswirtschaftsraum;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W34.2;Bad;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W34.3;Bad;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W34.4;Flur;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W34.5;Dachboden;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W34.5;Dachboden;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W34.6;Hauswirtschaftsraum;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W35.1;Schlafzimmer;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W35.10;Schlafzimmer;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W35.11;Schlafzimmer;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W35.2;Schlafzimmer;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W35.3;Schlafzimmer;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W35.4;Schlafzimmer;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W35.5;Kind 2;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W35.6;Kind 2;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W35.7;Kind 1;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W35.8;Kind 1;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W35.9;Schlafzimmer;DG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W36.1;Verteiler - Schlafzimmer;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.10;Flur;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.10;Schlafzimmer;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.11;Verteiler - Bad;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.12;Verteiler - Bad;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.13;Verteiler - Bad;DG;4044774543505;1026843 - 62;;m;Steuerleitung 2 x 1.50 mm²
+-W36.14;Bad;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.15;Bad;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.16;Verteiler - Bad;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.17;Bad;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.2;Schlafzimmer;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.3;Schlafzimmer;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.4;Verteiler - Schlafzimmer;DG;4044774543505;1026843 - 62;;m;Steuerleitung 2 x 1.50 mm²
+-W36.5;Schlafzimmer;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.5;Verteiler - Flur;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.6;Schlafzimmer;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.6;Verteiler - Flur;DG;4044774543505;1026843 - 62;;m;Steuerleitung 2 x 1.50 mm²
+-W36.7;Flur;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.7;Schlafzimmer;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.8;Flur;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.8;Schlafzimmer;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.9;Flur;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W36.9;Schlafzimmer;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W37.1;Verteiler-Schlafzimmer;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W37.2;Verteiler-Bad;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W37.3;Verteiler-HW;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W37.4;Verteiler-Flur;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W37.5;Verteiler-Kind1;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W37.6;Verteiler-Kind2;DG;0015002;1026833 - 62;;m;Steuerleitung 2 x 0.50 mm²
+-W4.1;;;;;;;
+-W4.2;;;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W4.3;;;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W4.4;;;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W4.5;;;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W4.6;;;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W4.7;;;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W4.8;;;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W7.1;Küche;EG;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W7.1;Verteilerkasten;EG;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W7.2;Küche;EG;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W7.2;Verteilerkasten;EG;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W7.3;Bad;EG;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W7.3;Verteieler;EG;4044776488064;1025834 - 62;;;LAPP 16000063/1 Mantelleitung NYM-J 5 G 2.5 mm² Grau
+-W8.1;Küche;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.1;Verteiler;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.10;Bad;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.10;Verteiler;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.11;WC;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.11;WC Lüfter;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.3;Küche;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.3;Verteiler;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.4;Verteiler;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.4;Wohnzimmer;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.5;Terrasse;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.5;Verteiler;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.6;Schlafzimmer;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.6;Verteiler;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.7;Flur;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.7;Verteiler;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.8;Verteiler;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.8;WC;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+-W8.9;Verteiler;EG;4044774725291;1025805 - 62;;m;LAPP 16000003/50 Mantelleitung NYM-J 3 G 1.5 mm² Grau
+
+0x7ffc33899850
