@@ -4,9 +4,38 @@ electrical installation plan
 # TODO
 ## Allgemein
 - [] laenge der kabel ermitteln
+- [] Bestellung nr 2 (siehe liste unten)
+- [] delle in schaltschrank türe
+- [] Lüfter bestellen (Reichelt)
+    - [x] Absprache kompatibel mit Samu
+- [] Bewegungsmelder bestellen
+- [] klingel, zahlenschloss
+- [] lan patch kabel bestellen
+- [x] dimmer an terrassentür bestellen
+- [x] mantellung kabel bestand prüfen
+- [x] relais zeitverzögert für wc lüftung
+- [x] steckdose eg kühlschrank
+- [x] versorgung hoflicht aus og
+- [x] X12.1 löschen und X12.23 in X12.1
+- [x] koax und steckdose im schlafzimmer am fenster (neu)
+- [x] stromzähler für eg und og
 - [] bmk an installationsplanung übertragen
+- [x] LED bestellen
+- [] Kabel im Plan ergänzen
+    - [x] EG
+    - [x] OG
+    - [x] DG
+- [] Anlage und Ort an Kabel anlegen
+    - [x] EG
+    - [x] OG
+    - [x] DG
+- [] Kabellisten pro stockwerk als csv
+    - [x] EG
+    - [] OG
+    - [] DG
+- [x] ~mail~ anruf samu, kabel in aw kanal? Beleuchtung
+- [x] Mail an papa, kabelliste laenge eintragen und inventur
 - [x] beschriftung
-- [] Berechnung 24V Netzteil mit fußbodenheizung a 3W
 - [x] 4 phasen ls schalter anlegen und einnfügen
 - [x] artikel 3G1.5mm übernehmen
     - [x] Bezeichnungen aller Kabel prüfen
@@ -18,6 +47,7 @@ electrical installation plan
 
 ## EG
 - [] zuleitung dimensionieren
+- [x] zweiter lichtschalter in küche als Kreuzschaltung in kleinspannung
 - [x] Waschmaschine und Trockner separat absichern
 - [x] steuerung fußbodenheizung
 - [x] daten/koaxkabel
@@ -25,7 +55,7 @@ electrical installation plan
 - [x] +/- klemmblock
 
 ## OG
-- [] Bewegungsmelder flur
+- [x] Bewegungsmelder flur
 
 ## technikraum
 Planung nach Datenblatt
@@ -33,6 +63,14 @@ Planung nach Datenblatt
 - [x] Busleitung
 
 ## Schaltschrank verbrauchmaterial
+- [x] einzelader
+    - [x] 0,5 blau
+    - [x] 1.5 schwarz
+    ~~- [] 1.5 blau~~ 
+    - [x] 2.5 schwarz
+- [] ~~kabelverschraubungen~~  wird zu eng
+- [] ~~mehrfach gummis fuer kabelverschraubungen~~ 
+- [] klemme 11x 0.5 + 1*2.5 für spots auf hauptleitung ggf. sicherung
 - [] schaltschrank
     - [] technikraum
     - [x] verteiler eg
@@ -40,21 +78,10 @@ Planung nach Datenblatt
         - https://hager.com/de/katalog/produkt/fwu42s-feldverteiler-up-2x4-reihen-mit-univers
     - [x] verteiler dg
         - https://hager.com/de/katalog/produkt/fwb42d1-feldverteiler-ap-univers-2x4-reihen-leer ???
-- [] hutschiene (für Netzteil)
+- [] ~hutschiene (für Netzteil)~
 - [] ~kabelverschraubungen~
-- [] mehrfach gummis fuer kabelverschraubungen
-- [] pe-, n-, klemmen
-    - [x] 2,5 mm²
-    - [x] 6 mm²
-    - [x] 16 mm²
-- [x] aderendhülsen 0,5-16mm²
-- [] sammelschienen für FI-Schutzschalter mit endkappe
-- [] Verdrahtungskanal
-- [x] draht
-    - [x] 0,5 blau
-    - [x] 1.5 schwarz
-    - [x] 1.5 blau
-    - [x] 2.5 schwarz
+- [x] sammelschienen für FI-Schutzschalter mit endkappe
+- [] ~Verdrahtungskanal~
 ### Klemmen
 | Bezeichnung                | Nummer 2,5² | Nummer 6² |    Nummer 16² |
 | -------------------------- | ----------: | --------: | ------------: |
@@ -73,7 +100,7 @@ Planung nach Datenblatt
 | 4-fach-Brücke              |    2002-404 |  2006-404 |  2016-404 |
 | 5-fach-Brücke              |    2002-405 |  2006-405 |  2016-405 |
 
-## Bemaßung schaltschrank
+## Bemaßung geräte für schaltschrank
 ### OG
 2x FI 4phasen
     Breite: 70 mm
