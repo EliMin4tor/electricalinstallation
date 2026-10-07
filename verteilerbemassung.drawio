@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36">
   <diagram id="03018318-947c-dd8e-b7a3-06fadd420f32" name="Page-1">
-    <mxGraphModel dx="3093" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2704" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -222,6 +222,48 @@
         </mxCell>
         <mxCell id="W5Arp1FfDfWxtfOKEd5h-58" parent="W5Arp1FfDfWxtfOKEd5h-33" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;FI&lt;/div&gt;2 phasen" vertex="1">
           <mxGeometry height="70" width="40" x="391.25" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Hauptversorgung" vertex="1">
+          <mxGeometry height="640" width="300" x="-920" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-2" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;" value="2016" vertex="1">
+          <mxGeometry height="30" width="60" x="32.25000000000001" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-3" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;" value="-F4.2" vertex="1">
+          <mxGeometry height="90" width="50" x="100" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-4" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" value="-F4.3" vertex="1">
+          <mxGeometry height="90" width="17.5" x="150" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-5" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;" value="-F4.10" vertex="1">
+          <mxGeometry height="70" width="70" x="29.25" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-6" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;" value="-F4.11" vertex="1">
+          <mxGeometry height="70" width="40" x="107" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-7" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;" value="-F4.12" vertex="1">
+          <mxGeometry height="70" width="40" x="158.88" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-8" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;" value="2006" vertex="1">
+          <mxGeometry height="30" width="98" x="95.75" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-9" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;" value="2002" vertex="1">
+          <mxGeometry height="30" width="73" x="198.88" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-10" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;horizontal=0;" value="-F4.4" vertex="1">
+          <mxGeometry height="90" width="17.5" x="168" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-11" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;" value="-Q4.1" vertex="1">
+          <mxGeometry height="90" width="50" x="32.24999999999989" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-12" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="Zähler" vertex="1">
+          <mxGeometry height="110" width="70" x="26.629999999999995" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-13" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="Zähler" vertex="1">
+          <mxGeometry height="110" width="70" x="104.75999999999999" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-14" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" value="Zähler" vertex="1">
+          <mxGeometry height="110" width="70" x="192.88" y="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
