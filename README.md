@@ -3,12 +3,37 @@ electrical installation plan
 
 # TODO
 ## Allgemein
-- [] laenge der kabel ermitteln
-- [] Bestellung nr 2 (siehe liste unten)
+### technikraum
+- [x] kabel waermepumpe anspassen
+### dg
+- [x] lichtschalter loggia innen
+- [x] kabelbezeichnung kleinspannung dg anpassen
+- [o] x35.1, s37.1, s36.1 kabel vom schlafzimmer über kind2 -wand in dachstock
+- [x] Kind1
+    - [x] tür nach osten versetzen
+    - [x] kabel & schalter für dachfenster
+    - [x] türe richtung kamin offnen
+    - [x] 4te steckdose
+- [x] Kind2
+    - [x] 4te steckdose
+- [x] Bad
+    - [x] kabel & schalter für dachfenster
+- [o] wie viele kabel kommen im dg am schaltschrank an?
+### og
+- [o] backofen/herd einphasig?
+- [x] mehrzweckraum: steckdose an kuechenwand versetzen
+- [o] wc
+    - [x] tuere geht nach rechts auf
+    - [x] steckdose und schalter versetzen
+### eg
+- [o] backofen/herd einphasig?
+
+- [x] laenge der kabel ermitteln
+- [x] Bestellung nr 2 (siehe liste unten)
 - [] delle in schaltschrank türe
 - [] Lüfter bestellen (Reichelt)
     - [x] Absprache kompatibel mit Samu
-- [] Bewegungsmelder bestellen
+- [] Bewegungsmelder bestellen (6 stk?)
 - [] klingel, zahlenschloss
 - [] lan patch kabel bestellen
 - [x] dimmer an terrassentür bestellen
@@ -19,7 +44,7 @@ electrical installation plan
 - [x] X12.1 löschen und X12.23 in X12.1
 - [x] koax und steckdose im schlafzimmer am fenster (neu)
 - [x] stromzähler für eg und og
-- [] bmk an installationsplanung übertragen
+- [x] bmk an installationsplanung übertragen
 - [x] LED bestellen
 - [] Kabel im Plan ergänzen
     - [x] EG
@@ -29,10 +54,7 @@ electrical installation plan
     - [x] EG
     - [x] OG
     - [x] DG
-- [] Kabellisten pro stockwerk als csv
-    - [x] EG
-    - [] OG
-    - [] DG
+- [] Kabellisten als csv
 - [x] ~mail~ anruf samu, kabel in aw kanal? Beleuchtung
 - [x] Mail an papa, kabelliste laenge eintragen und inventur
 - [x] beschriftung
@@ -70,9 +92,9 @@ Planung nach Datenblatt
     - [x] 2.5 schwarz
 - [] ~~kabelverschraubungen~~  wird zu eng
 - [] ~~mehrfach gummis fuer kabelverschraubungen~~ 
-- [] klemme 11x 0.5 + 1*2.5 für spots auf hauptleitung ggf. sicherung
-- [] schaltschrank
-    - [] technikraum
+- [x] klemme 11x 0.5 + 1*2.5 für spots auf hauptleitung ggf. sicherung
+- [x] schaltschrank
+    - [x] technikraum
     - [x] verteiler eg
     - [x] verteiler og
         - https://hager.com/de/katalog/produkt/fwu42s-feldverteiler-up-2x4-reihen-mit-univers

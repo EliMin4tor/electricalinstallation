@@ -1,1 +1,43 @@
-SELECT label, plant, location designation, manufacturer_reference, quantity, unity, description FROM element_nomenclature_view WHERE label like '-W%' and ( element_type = 'terminal' OR element_type = 'thumbnail' OR element_type = 'simple' OR element_sub_type = 'commutator' OR element_sub_type = 'coil' OR element_sub_type = 'protection') ORDER BY label, designation, manufacturer_reference, quantity, unity, description
+SELECT
+	label,
+	location,
+	plant,
+	designation,
+	manufacturer_reference,
+	quantity,
+	unity,
+	description
+FROM
+	element_nomenclature_view
+WHERE
+	label like '-W%'
+ORDER BY
+	label,
+	location,
+	designation,
+	manufacturer_reference,
+	quantity,
+	unity,
+	description
+
+SELECT
+	label
+FROM
+	element_nomenclature_view
+WHERE
+	label like '-W%'
+ORDER BY
+	label
+
+SELECT
+	label,
+    plant,
+	location
+FROM
+	element_nomenclature_view
+WHERE
+	label like '-W%'
+ORDER BY
+	label,
+	location,
+    plant
