@@ -47,6 +47,10 @@ Aderzahl Querschnitt; Länge Gesamt; Gelizzt; Aufteilung Längen; Kurzzeichen; K
 } 
 
 # EG
+## Zuleitung
+5G6mm²
+3+0.85+0.5
+4.35
 ## Küche
 | Kabel | Länge |
 | -------------- | --------------- |
@@ -95,6 +99,10 @@ Aderzahl Querschnitt; Länge Gesamt; Gelizzt; Aufteilung Längen; Kurzzeichen; K
 | 2X0.5 mm² | 78.5 m |
 
 # OG
+## Zuleitung
+5G6mm²
+3+2.7+2.5+0.5
+8.7
 ## Mehrzweckraum
 | Lampe      | Kabel  | Grundlänge |      +10 % | Bestelllänge |
 | ---------- | ------ | ---------: | ---------: | -----------: |
@@ -156,6 +164,11 @@ Aderzahl Querschnitt; Länge Gesamt; Gelizzt; Aufteilung Längen; Kurzzeichen; K
 | P28.17          | -W28.25 |  9,7 m   |
 |   Gesamtlänge   |         | 43.7 m   |
 
+# DG
+## Zuleitung
+5G6mm²
+3+2.7+2.5+2.5+1
+11.7
 ## Schlafzimmer
 | Spot            | Kabel  |       Länge |
 | --------------- | ------ | ----------: |
@@ -176,6 +189,8 @@ Aderzahl Querschnitt; Länge Gesamt; Gelizzt; Aufteilung Längen; Kurzzeichen; K
 2X0,5	138,19 m
 2X1,5	22,17 m
 
+8.7 + 4.35 + 11.7
+24.75
 # Gesamt
 | Kabel | Länge |
 | -------------- | --------------- |
