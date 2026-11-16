@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36">
   <diagram id="03018318-947c-dd8e-b7a3-06fadd420f32" name="Page-1">
-    <mxGraphModel dx="2704" dy="903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2129" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,7 +223,7 @@
         <mxCell id="W5Arp1FfDfWxtfOKEd5h-58" parent="W5Arp1FfDfWxtfOKEd5h-33" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;FI&lt;/div&gt;2 phasen" vertex="1">
           <mxGeometry height="70" width="40" x="391.25" y="240" as="geometry" />
         </mxCell>
-        <mxCell id="jMxejdS8oFGN8AmM7dNn-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Hauptversorgung" vertex="1">
+        <mxCell id="jMxejdS8oFGN8AmM7dNn-1" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=60;" value="Hauptversorgung&amp;nbsp;&lt;dt class=&quot;grow basis-0 py-10 pr-10 font-bold border-r border-gray-light md:p-0 md:border-0 productTechData__listTerm text-body&quot;&gt;&lt;span class=&quot;font-bold&quot;&gt;&lt;/span&gt;&lt;/dt&gt;&lt;dd class=&quot;grow basis-0 ml-10 py-10 md:flex md:m-0 md:p-0 productTechData__listDefinition text-body&quot;&gt;&lt;div class=&quot;text-body productTechData__definitionDescription md:flex-1 md:pr-10&quot;&gt;&lt;p&gt;(B x H x T) 305 x 640 x 96.5 mm&lt;/p&gt;&lt;/div&gt;&lt;/dd&gt;" vertex="1">
           <mxGeometry height="640" width="300" x="-920" y="40" as="geometry" />
         </mxCell>
         <mxCell id="jMxejdS8oFGN8AmM7dNn-2" parent="jMxejdS8oFGN8AmM7dNn-1" style="rounded=0;whiteSpace=wrap;html=1;" value="2016" vertex="1">
