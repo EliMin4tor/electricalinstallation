@@ -4075,7 +4075,7 @@
         </mxCell>
         <mxCell id="-2w2TMMhVdyjIAl6zEOu-1" parent="0" value="Bemassung dg bad" />
         <mxCell id="-2w2TMMhVdyjIAl6zEOu-2" parent="-2w2TMMhVdyjIAl6zEOu-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="7" width="123" x="2756" y="1251" as="geometry" />
+          <mxGeometry height="7" width="47.53" x="2756" y="1191" as="geometry" />
         </mxCell>
         <mxCell id="-2w2TMMhVdyjIAl6zEOu-3" parent="-2w2TMMhVdyjIAl6zEOu-1" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;" value="120" vertex="1">
           <mxGeometry height="40" width="123" x="2756" y="1259" as="geometry" />
@@ -4091,8 +4091,8 @@
             <mxGeometry height="100" width="30" x="2860" y="1091" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="-2w2TMMhVdyjIAl6zEOu-10" parent="-2w2TMMhVdyjIAl6zEOu-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;labelPerimeter=1;direction=south;" value="" vertex="1">
-          <mxGeometry height="56.47" width="60" x="2819" y="1193" as="geometry" />
+        <mxCell id="-2w2TMMhVdyjIAl6zEOu-10" parent="-2w2TMMhVdyjIAl6zEOu-1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.doorLeft;aspect=fixed;labelPerimeter=1;direction=east;" value="" vertex="1">
+          <mxGeometry height="60" width="56.47" x="2802.535" y="1191.475" as="geometry" />
         </mxCell>
         <UserObject label="60" tooltip="Duschaussenwand" id="-2w2TMMhVdyjIAl6zEOu-11">
           <mxCell parent="-2w2TMMhVdyjIAl6zEOu-1" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=middle;labelBackgroundColor=none;horizontal=0;spacingTop=30;labelPosition=center;verticalLabelPosition=middle;flipV=0;legacyAnchorPoints=0;flipH=1;spacingBottom=0;" vertex="1">
@@ -4104,6 +4104,9 @@
             <mxGeometry height="110" width="60" x="2830" y="1250.47" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="-2w2TMMhVdyjIAl6zEOu-16" parent="-2w2TMMhVdyjIAl6zEOu-1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="7" width="21" x="2858" y="1191" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
