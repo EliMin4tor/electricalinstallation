@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="16PBTJ4qTn_2qtfbnJdD">
-    <mxGraphModel dx="1708" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2729" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="Q_RyMvjdg7zLIBfVdtKX-1" parent="0" style="locked=1;" value="Light" visible="0" />
@@ -982,7 +982,7 @@
           <mxGeometry height="57.14" width="61" x="1770.9979470469557" y="778.8539699541832" as="geometry" />
         </mxCell>
         <mxCell id="topAGS4dxq3s-oj0GHqc-4" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;direction=north;" value="" vertex="1">
-          <mxGeometry height="570" width="160" x="-170" y="420" as="geometry" />
+          <mxGeometry height="570" width="260" x="-270" y="420" as="geometry" />
         </mxCell>
         <mxCell id="topAGS4dxq3s-oj0GHqc-5" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;shape=mxgraph.floorplan.wallCorner;fillColor=strokeColor;direction=east;" value="" vertex="1">
           <mxGeometry height="150" width="70" x="-170" y="360" as="geometry" />
@@ -1173,7 +1173,10 @@
         <mxCell id="WmN2uHyV0oeHY02rMWEb-2" parent="4Ku_F2L5Daa_nBhYcuQ_-2" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;" value="Kabelkanal 100x60" vertex="1">
           <mxGeometry height="25" width="50" x="570" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="vdXgU_yWX5uQh9fZjEyF-390" parent="0" style="locked=0;" value="Elektrik" />
+        <mxCell id="PikwUoreuxIwnrbYA2Fd-1" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;left: 9.67%; top: 85.35%; --font-height: 8px; font-family: monospace; --scale-x: 1.0875000203357026;&quot; role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;Maße&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="-1230" y="1410" as="geometry" />
+        </mxCell>
+        <mxCell id="vdXgU_yWX5uQh9fZjEyF-390" parent="0" style="locked=0;" value="Elektrik" visible="0" />
         <mxCell id="vdXgU_yWX5uQh9fZjEyF-391" parent="vdXgU_yWX5uQh9fZjEyF-390" style="rounded=1;whiteSpace=wrap;html=1;" value="Klemme" vertex="1">
           <mxGeometry height="29.89" width="60" x="580" y="1240.39" as="geometry" />
         </mxCell>
@@ -2747,7 +2750,7 @@
         <mxCell id="C-Hmeh0sqWd3LtNh9iJR-10" parent="vdXgU_yWX5uQh9fZjEyF-390" style="shape=stencil(vVTLboMwEPwaH4koVqReK9qeql7yAdUKNuACtmVvatKvr8GmESVEqaJW8sE7szv78IPx3NagkWWphA4Zf2RZtiMsmlJZfNsV9YE+GyUJGvKMd3PBh6fBrOcmWI0FBWwveiwDbMmoBp0oKfqnm21g+q6VNmA1kWb8gWXPfjnnNu+VAV1vCtV5oDTghBqC+BNLvVc6LJ7vlcHKqIMsZ8REaxhSLoiJ7tTH0HsfKriLXRyjGWscKlqXAFP4jYkSMcQcZ2afQC9sYhQBCSXjDALXgqkw8SrJvoUqZo5jc4h6CcdU2W+q5bnHV4bh78B4PheCbxpjes0YWyFxvbeLEv/a2/bm3n5I/MWxjWErL4PnhZLSv1J/Ee1ZWc97ZRCSTkV/P9jjZGfB1mhEh4RmdkVPn8nL5fauy3V/Xa7X87nGaSybHuHw+43AFw==);whiteSpace=wrap;html=1;spacingLeft=0;direction=west;spacingTop=0;points=[[0.5,0.2,0,0,0]];spacingBottom=20;" value="X35.1" vertex="1">
           <mxGeometry height="40" width="40" x="3420" y="912" as="geometry" />
         </mxCell>
-        <mxCell id="topAGS4dxq3s-oj0GHqc-2" parent="0" style="locked=0;" value="Wasser" />
+        <mxCell id="topAGS4dxq3s-oj0GHqc-2" parent="0" style="locked=0;" value="Wasser" visible="0" />
         <mxCell id="Z6gKv8g90rjIs1Ez76Uh-12" edge="1" parent="topAGS4dxq3s-oj0GHqc-2" source="Z6gKv8g90rjIs1Ez76Uh-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="Z6gKv8g90rjIs1Ez76Uh-11" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -2913,7 +2916,7 @@
           <mxGeometry height="30" width="100" x="2868" y="791" as="geometry" />
         </mxCell>
         <mxCell id="XU40kw2kd2fKE1Ttxqb0-38" parent="topAGS4dxq3s-oj0GHqc-2" style="text;html=1;whiteSpace=wrap;strokeColor=#666666;fillColor=#f5f5f5;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;rotation=90;fontColor=#333333;" value="WW+KW Zähler EG&amp;nbsp;" vertex="1">
-          <mxGeometry height="30" width="130" x="-178.63" y="662.5" as="geometry" />
+          <mxGeometry height="30" width="130" x="-170" y="690" as="geometry" />
         </mxCell>
         <mxCell id="ObfYa6d9aQ7Mq6h4QR2l-51" parent="topAGS4dxq3s-oj0GHqc-2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;glass=0;gradientColor=none;" value="" vertex="1">
           <mxGeometry height="15" width="15" x="292.5" y="655" as="geometry" />
@@ -4047,6 +4050,25 @@
               <mxPoint x="1770" y="719" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="PikwUoreuxIwnrbYA2Fd-2" parent="0" value="Bemassung Technikraum" />
+        <mxCell id="PikwUoreuxIwnrbYA2Fd-3" parent="PikwUoreuxIwnrbYA2Fd-2" style="whiteSpace=wrap;html=1;" value="&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;Integralspeicher&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;L=910&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;T=666&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;H=1904&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="91" width="67" x="-100" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="PikwUoreuxIwnrbYA2Fd-4" parent="PikwUoreuxIwnrbYA2Fd-2" style="shape=dimension;direction=south;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;labelBackgroundColor=none;horizontal=0;spacingTop=-15;fontSize=9;" value="91" vertex="1">
+          <mxGeometry height="91" width="20" x="-120" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="PikwUoreuxIwnrbYA2Fd-5" parent="PikwUoreuxIwnrbYA2Fd-2" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;fontSize=9;" value="67" vertex="1">
+          <mxGeometry height="40" width="67" x="-100" y="801" as="geometry" />
+        </mxCell>
+        <mxCell id="PikwUoreuxIwnrbYA2Fd-6" parent="PikwUoreuxIwnrbYA2Fd-2" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;fontSize=9;" value="80" vertex="1">
+          <mxGeometry height="40" width="80" x="-180" y="780" as="geometry" />
+        </mxCell>
+        <mxCell id="PikwUoreuxIwnrbYA2Fd-7" parent="PikwUoreuxIwnrbYA2Fd-2" style="shape=dimension;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=bottom;spacingBottom=3;labelBackgroundColor=none;fontSize=9;" value="25" vertex="1">
+          <mxGeometry height="40" width="25" x="-33" y="761" as="geometry" />
+        </mxCell>
+        <mxCell id="PikwUoreuxIwnrbYA2Fd-8" parent="PikwUoreuxIwnrbYA2Fd-2" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;labelPerimeter=1;" value="&lt;div style=&quot;line-height: 20%;&quot;&gt;&lt;dd class=&quot;grow basis-0 ml-10 py-10 md:flex md:m-0 md:p-0 productTechData__listDefinition text-body&quot;&gt;&lt;div class=&quot;text-body productTechData__definitionDescription md:flex-1 md:pr-10&quot;&gt;&lt;p&gt;&lt;font style=&quot;font-size: 8px; line-height: 20%;&quot;&gt;Stromverteiler&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;/dd&gt;&lt;div align=&quot;left&quot;&gt;&lt;dd class=&quot;grow basis-0 ml-10 py-10 md:flex md:m-0 md:p-0 productTechData__listDefinition text-body&quot;&gt;&lt;div class=&quot;text-body productTechData__definitionDescription md:flex-1 md:pr-10&quot;&gt;&lt;p&gt;&lt;font style=&quot;font-size: 8px; line-height: 20%;&quot;&gt;(B x H x T)mm&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;/dd&gt;&lt;dd class=&quot;grow basis-0 ml-10 py-10 md:flex md:m-0 md:p-0 productTechData__listDefinition text-body&quot;&gt;&lt;div class=&quot;text-body productTechData__definitionDescription md:flex-1 md:pr-10&quot;&gt;&lt;p&gt;&lt;font style=&quot;font-size: 8px; line-height: 20%;&quot;&gt;305x640x96.5&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;/div&gt;&lt;/dd&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="9.5" x="-17.5" y="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
